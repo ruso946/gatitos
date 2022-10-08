@@ -1,0 +1,8002 @@
+[
+ {
+   "id": 1,
+   "nombre": "Red phalarope",
+   "raza": "Phalaropus fulicarius",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 2,
+   "nombre": "Dove, white-winged",
+   "raza": "Zenaida asiatica",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 3,
+   "nombre": "Antelope ground squirrel",
+   "raza": "Ammospermophilus nelsoni",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 4,
+   "nombre": "Snowy owl",
+   "raza": "Nyctea scandiaca",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 5,
+   "nombre": "Southern black-backed gull",
+   "raza": "Larus dominicanus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 6,
+   "nombre": "Cormorant, flightless",
+   "raza": "Nannopterum harrisi",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 7,
+   "nombre": "Shrike, common boubou",
+   "raza": "Laniarius ferrugineus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 8,
+   "nombre": "African elephant",
+   "raza": "Loxodonta africana",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 9,
+   "nombre": "Anaconda (unidentified)",
+   "raza": "Eunectes sp.",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 10,
+   "nombre": "Boat-billed heron",
+   "raza": "Cochlearius cochlearius",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 11,
+   "nombre": "Langur, gray",
+   "raza": "Semnopithecus entellus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 12,
+   "nombre": "Macaw, blue and yellow",
+   "raza": "Ara ararauna",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 13,
+   "nombre": "Crab-eating raccoon",
+   "raza": "Procyon cancrivorus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 14,
+   "nombre": "Worm snake (unidentified)",
+   "raza": "Carphophis sp.",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 15,
+   "nombre": "Genet, small-spotted",
+   "raza": "Genetta genetta",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 16,
+   "nombre": "Eastern indigo snake",
+   "raza": "Drymarchon corias couperi",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 17,
+   "nombre": "Caracara (unidentified)",
+   "raza": "unavailable",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 18,
+   "nombre": "Armadillo, seven-banded",
+   "raza": "Dasypus septemcincus",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 19,
+   "nombre": "Spotted hyena",
+   "raza": "Crocuta crocuta",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 20,
+   "nombre": "Southern hairy-nosed wombat",
+   "raza": "Lasiorhinus latifrons",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 21,
+   "nombre": "Turtle, long-necked",
+   "raza": "Chelodina longicollis",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 22,
+   "nombre": "Southern hairy-nosed wombat",
+   "raza": "Lasiorhinus latifrons",
+   "color": "Crimson",
+   "genero": "Bigender",
+   "vacunas": false
+ },
+ {
+   "id": 23,
+   "nombre": "Fox, north american red",
+   "raza": "Vulpes vulpes",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 24,
+   "nombre": "Brocket, red",
+   "raza": "Mazama americana",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 25,
+   "nombre": "Komodo dragon",
+   "raza": "Varanus komodensis",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 26,
+   "nombre": "Glossy starling (unidentified)",
+   "raza": "Lamprotornis sp.",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 27,
+   "nombre": "Greater rhea",
+   "raza": "Rhea americana",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 28,
+   "nombre": "Mouflon",
+   "raza": "Ovis musimon",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 29,
+   "nombre": "Crow, american",
+   "raza": "Corvus brachyrhynchos",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 30,
+   "nombre": "Mountain duck",
+   "raza": "Hymenolaimus malacorhynchus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 31,
+   "nombre": "Glossy starling (unidentified)",
+   "raza": "Lamprotornis sp.",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 32,
+   "nombre": "Asian false vampire bat",
+   "raza": "Megaderma spasma",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 33,
+   "nombre": "Crested screamer",
+   "raza": "Chauna torquata",
+   "color": "Puce",
+   "genero": "Agender",
+   "vacunas": true
+ },
+ {
+   "id": 34,
+   "nombre": "Yellow-brown sungazer",
+   "raza": "Cordylus giganteus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 35,
+   "nombre": "Otter, brazilian",
+   "raza": "Pteronura brasiliensis",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 36,
+   "nombre": "Pelican, australian",
+   "raza": "Pelecanus conspicillatus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 37,
+   "nombre": "Heron, boat-billed",
+   "raza": "Cochlearius cochlearius",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 38,
+   "nombre": "Leadbeateri's ground hornbill",
+   "raza": "Bucorvus leadbeateri",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 39,
+   "nombre": "Snake (unidentified)",
+   "raza": "unavailable",
+   "color": "Violet",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 40,
+   "nombre": "Common brushtail possum",
+   "raza": "Trichosurus vulpecula",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 41,
+   "nombre": "Lilac-breasted roller",
+   "raza": "Coracias caudata",
+   "color": "Maroon",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 42,
+   "nombre": "Mississippi alligator",
+   "raza": "Alligator mississippiensis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 43,
+   "nombre": "Porcupine, north american",
+   "raza": "Erethizon dorsatum",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 44,
+   "nombre": "Turtle (unidentified)",
+   "raza": "unavailable",
+   "color": "Orange",
+   "genero": "Polygender",
+   "vacunas": true
+ },
+ {
+   "id": 45,
+   "nombre": "Alligator, american",
+   "raza": "Alligator mississippiensis",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 46,
+   "nombre": "Huron",
+   "raza": "Galictis vittata",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 47,
+   "nombre": "Wallaby, whip-tailed",
+   "raza": "Macropus parryi",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 48,
+   "nombre": "Common boubou shrike",
+   "raza": "Laniarius ferrugineus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 49,
+   "nombre": "Toucan, white-throated",
+   "raza": "Ramphastos tucanus",
+   "color": "Orange",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 50,
+   "nombre": "Python, carpet",
+   "raza": "Morelia spilotes variegata",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 51,
+   "nombre": "African lion",
+   "raza": "Panthera leo",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 52,
+   "nombre": "Gazelle, thomson's",
+   "raza": "Gazella thompsonii",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 53,
+   "nombre": "Black bear",
+   "raza": "Ursus americanus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 54,
+   "nombre": "Roller, lilac-breasted",
+   "raza": "Coracias caudata",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 55,
+   "nombre": "Western lowland gorilla",
+   "raza": "Gorilla gorilla",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 56,
+   "nombre": "Dunnart, fat-tailed",
+   "raza": "Smithopsis crassicaudata",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 57,
+   "nombre": "Blue-breasted cordon bleu",
+   "raza": "Uraeginthus angolensis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 58,
+   "nombre": "Francolin, coqui",
+   "raza": "Francolinus coqui",
+   "color": "Indigo",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 59,
+   "nombre": "Pale-throated three-toed sloth",
+   "raza": "Bradypus tridactylus",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 60,
+   "nombre": "Seven-banded armadillo",
+   "raza": "Dasypus septemcincus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 61,
+   "nombre": "Vulture, bengal",
+   "raza": "Gyps bengalensis",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 62,
+   "nombre": "Squirrel, malabar",
+   "raza": "Ratufa indica",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 63,
+   "nombre": "Scarlet macaw",
+   "raza": "Ara macao",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 64,
+   "nombre": "Dragon, ornate rock",
+   "raza": "Ctenophorus ornatus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 65,
+   "nombre": "Galapagos penguin",
+   "raza": "Spheniscus mendiculus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 66,
+   "nombre": "Kori bustard",
+   "raza": "Choriotis kori",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 67,
+   "nombre": "Grey-footed squirrel",
+   "raza": "Paraxerus cepapi",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 68,
+   "nombre": "Crane, stanley",
+   "raza": "Anthropoides paradisea",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 69,
+   "nombre": "White-faced whistling duck",
+   "raza": "Dendrocygna viduata",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 70,
+   "nombre": "Tree porcupine",
+   "raza": "Coendou prehensilis",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 71,
+   "nombre": "Python, carpet",
+   "raza": "Morelia spilotes variegata",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 72,
+   "nombre": "Sloth, hoffman's",
+   "raza": "Choloepus hoffmani",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 73,
+   "nombre": "Turtle, long-necked",
+   "raza": "Chelodina longicollis",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 74,
+   "nombre": "White-mantled colobus",
+   "raza": "Colobus guerza",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 75,
+   "nombre": "Macaque, japanese",
+   "raza": "Macaca fuscata",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 76,
+   "nombre": "Red-winged hawk (unidentified)",
+   "raza": "unavailable",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 77,
+   "nombre": "Pheasant, ring-necked",
+   "raza": "Phasianus colchicus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 78,
+   "nombre": "American woodcock",
+   "raza": "Scolopax minor",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 79,
+   "nombre": "Baleen whale",
+   "raza": "Eubalaena australis",
+   "color": "Crimson",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 80,
+   "nombre": "Common eland",
+   "raza": "Taurotagus oryx",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 81,
+   "nombre": "Stork, marabou",
+   "raza": "Leptoptilos crumeniferus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 82,
+   "nombre": "Indian porcupine",
+   "raza": "Hystrix indica",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 83,
+   "nombre": "Deer, mule",
+   "raza": "Odocoileus hemionus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 84,
+   "nombre": "Zebra, plains",
+   "raza": "Equus burchelli",
+   "color": "Indigo",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 85,
+   "nombre": "Rhea, greater",
+   "raza": "Rhea americana",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 86,
+   "nombre": "Malabar squirrel",
+   "raza": "Ratufa indica",
+   "color": "Mauv",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 87,
+   "nombre": "Bat-eared fox",
+   "raza": "Otocyon megalotis",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 88,
+   "nombre": "Turkey, australian brush",
+   "raza": "Alectura lathami",
+   "color": "Fuscia",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 89,
+   "nombre": "North American river otter",
+   "raza": "Lutra canadensis",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 90,
+   "nombre": "Little cormorant",
+   "raza": "Phalacrocorax niger",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 91,
+   "nombre": "Quoll, spotted-tailed",
+   "raza": "Dasyurus maculatus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 92,
+   "nombre": "Llama",
+   "raza": "Lama glama",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 93,
+   "nombre": "Oribi",
+   "raza": "Ourebia ourebi",
+   "color": "Purple",
+   "genero": "Genderqueer",
+   "vacunas": true
+ },
+ {
+   "id": 94,
+   "nombre": "Mountain duck",
+   "raza": "Hymenolaimus malacorhynchus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 95,
+   "nombre": "Macaw, blue and yellow",
+   "raza": "Ara ararauna",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 96,
+   "nombre": "Roe deer",
+   "raza": "Capreolus capreolus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 97,
+   "nombre": "Pheasant, ring-necked",
+   "raza": "Phasianus colchicus",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 98,
+   "nombre": "Goose, greylag",
+   "raza": "Anser anser",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 99,
+   "nombre": "Griffon vulture",
+   "raza": "Gyps fulvus",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 100,
+   "nombre": "Asian foreset tortoise",
+   "raza": "Manouria emys",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 101,
+   "nombre": "Sheep, american bighorn",
+   "raza": "Ovis canadensis",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 102,
+   "nombre": "Bird, magnificent frigate",
+   "raza": "Fregata magnificans",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 103,
+   "nombre": "Bear, american black",
+   "raza": "Ursus americanus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 104,
+   "nombre": "Gull, kelp",
+   "raza": "Larus dominicanus",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 105,
+   "nombre": "Grey mouse lemur",
+   "raza": "Microcebus murinus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 106,
+   "nombre": "Red deer",
+   "raza": "Cervus elaphus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 107,
+   "nombre": "Marten, american",
+   "raza": "Martes americana",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 108,
+   "nombre": "Eleven-banded armadillo (unidentified)",
+   "raza": "Cabassous sp.",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 109,
+   "nombre": "Snake, racer",
+   "raza": "Coluber constrictor",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 110,
+   "nombre": "Fisher",
+   "raza": "Martes pennanti",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 111,
+   "nombre": "Lourie, grey",
+   "raza": "Lorythaixoides concolor",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 112,
+   "nombre": "Bat, madagascar fruit",
+   "raza": "Pteropus rufus",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 113,
+   "nombre": "Cat, toddy",
+   "raza": "Paradoxurus hermaphroditus",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 114,
+   "nombre": "Dog, bush",
+   "raza": "Speothos vanaticus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 115,
+   "nombre": "Crimson-breasted shrike",
+   "raza": "Laniaurius atrococcineus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 116,
+   "nombre": "Coyote",
+   "raza": "Canis latrans",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 117,
+   "nombre": "Mockingbird, galapagos",
+   "raza": "Nesomimus trifasciatus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 118,
+   "nombre": "Cottonmouth",
+   "raza": "Agkistrodon piscivorus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 119,
+   "nombre": "Lilac-breasted roller",
+   "raza": "Coracias caudata",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 120,
+   "nombre": "Steenbok",
+   "raza": "Raphicerus campestris",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 121,
+   "nombre": "Cat, kaffir",
+   "raza": "Felis silvestris lybica",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 122,
+   "nombre": "Desert kangaroo rat",
+   "raza": "Dipodomys deserti",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 123,
+   "nombre": "Crested barbet",
+   "raza": "Trachyphonus vaillantii",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 124,
+   "nombre": "Lemur, ring-tailed",
+   "raza": "Lemur catta",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 125,
+   "nombre": "Wagtail, african pied",
+   "raza": "Motacilla aguimp",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 126,
+   "nombre": "Cat, ringtail",
+   "raza": "Bassariscus astutus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 127,
+   "nombre": "Golden jackal",
+   "raza": "Canis aureus",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 128,
+   "nombre": "Jacana, african",
+   "raza": "Actophilornis africanus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 129,
+   "nombre": "Springbuck",
+   "raza": "Antidorcas marsupialis",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 130,
+   "nombre": "Weaver, red-billed buffalo",
+   "raza": "Bubalornis niger",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 131,
+   "nombre": "Peccary, white-lipped",
+   "raza": "Tayassu pecari",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 132,
+   "nombre": "Australian pelican",
+   "raza": "Pelecanus conspicillatus",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 133,
+   "nombre": "Eagle, bald",
+   "raza": "Haliaeetus leucocephalus",
+   "color": "Khaki",
+   "genero": "Non-binary",
+   "vacunas": false
+ },
+ {
+   "id": 134,
+   "nombre": "African bush squirrel",
+   "raza": "Paraxerus cepapi",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 135,
+   "nombre": "Bobcat",
+   "raza": "Felis rufus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 136,
+   "nombre": "Yellow-brown sungazer",
+   "raza": "Cordylus giganteus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 137,
+   "nombre": "Beaver, eurasian",
+   "raza": "Castor fiber",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 138,
+   "nombre": "Bat, asian false vampire",
+   "raza": "Megaderma spasma",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 139,
+   "nombre": "Pie, indian tree",
+   "raza": "Dendrocitta vagabunda",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 140,
+   "nombre": "African buffalo",
+   "raza": "Snycerus caffer",
+   "color": "Fuscia",
+   "genero": "Non-binary",
+   "vacunas": false
+ },
+ {
+   "id": 141,
+   "nombre": "Grenadier, common",
+   "raza": "Uraeginthus granatina",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 142,
+   "nombre": "Cook's tree boa",
+   "raza": "Corallus hortulanus cooki",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 143,
+   "nombre": "Roadrunner, greater",
+   "raza": "Geococcyx californianus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 144,
+   "nombre": "Flightless cormorant",
+   "raza": "Nannopterum harrisi",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 145,
+   "nombre": "Squirrel, thirteen-lined",
+   "raza": "Spermophilus tridecemlineatus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 146,
+   "nombre": "Tortoise, burmese brown mountain",
+   "raza": "Manouria emys",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 147,
+   "nombre": "Porcupine, african",
+   "raza": "Hystrix cristata",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 148,
+   "nombre": "Cat, toddy",
+   "raza": "Paradoxurus hermaphroditus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 149,
+   "nombre": "Phalarope, red-necked",
+   "raza": "Phalaropus lobatus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 150,
+   "nombre": "Dama wallaby",
+   "raza": "Macropus eugenii",
+   "color": "Yellow",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 151,
+   "nombre": "Frog (unidentified)",
+   "raza": "Rana sp.",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 152,
+   "nombre": "Pelican, australian",
+   "raza": "Pelecanus conspicillatus",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 153,
+   "nombre": "Stanley crane",
+   "raza": "Anthropoides paradisea",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 154,
+   "nombre": "Kangaroo, eastern grey",
+   "raza": "Macropus giganteus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 155,
+   "nombre": "Magnificent frigate bird",
+   "raza": "Fregata magnificans",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 156,
+   "nombre": "Meerkat, red",
+   "raza": "Cynictis penicillata",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 157,
+   "nombre": "Gelada baboon",
+   "raza": "Theropithecus gelada",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 158,
+   "nombre": "Kori bustard",
+   "raza": "Choriotis kori",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 159,
+   "nombre": "Savanna fox",
+   "raza": "Dusicyon thous",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 160,
+   "nombre": "Dragonfly, russian",
+   "raza": "Libellula quadrimaculata",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 161,
+   "nombre": "Macaw, green-winged",
+   "raza": "Ara chloroptera",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 162,
+   "nombre": "Hyrax",
+   "raza": "Dendrohyrax brucel",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 163,
+   "nombre": "Nile crocodile",
+   "raza": "Crocodylus niloticus",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 164,
+   "nombre": "Northern fur seal",
+   "raza": "Callorhinus ursinus",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 165,
+   "nombre": "Desert tortoise",
+   "raza": "Gopherus agassizii",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 166,
+   "nombre": "Magpie, australian",
+   "raza": "Gymnorhina tibicen",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 167,
+   "nombre": "African clawless otter",
+   "raza": "Aonyx capensis",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 168,
+   "nombre": "Kongoni",
+   "raza": "Alcelaphus buselaphus cokii",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 169,
+   "nombre": "Toucan, white-throated",
+   "raza": "Ramphastos tucanus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 170,
+   "nombre": "Southern lapwing",
+   "raza": "Vanellus chilensis",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 171,
+   "nombre": "Monster, gila",
+   "raza": "Heloderma horridum",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 172,
+   "nombre": "White-lipped peccary",
+   "raza": "Tayassu pecari",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 173,
+   "nombre": "North American porcupine",
+   "raza": "Erethizon dorsatum",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 174,
+   "nombre": "Alligator, american",
+   "raza": "Alligator mississippiensis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 175,
+   "nombre": "Red-winged hawk (unidentified)",
+   "raza": "unavailable",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 176,
+   "nombre": "Brolga crane",
+   "raza": "Grus rubicundus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 177,
+   "nombre": "Buffalo, american",
+   "raza": "Bison bison",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 178,
+   "nombre": "Bennett's wallaby",
+   "raza": "Macropus rufogriseus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 179,
+   "nombre": "Water monitor",
+   "raza": "Varanus salvator",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 180,
+   "nombre": "Vervet monkey",
+   "raza": "Cercopithecus aethiops",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 181,
+   "nombre": "Mudskipper (unidentified)",
+   "raza": "unavailable",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 182,
+   "nombre": "Lemur, brown",
+   "raza": "Lemur fulvus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 183,
+   "nombre": "Flying fox (unidentified)",
+   "raza": "unavailable",
+   "color": "Puce",
+   "genero": "Agender",
+   "vacunas": true
+ },
+ {
+   "id": 184,
+   "nombre": "Legaan, Monitor (unidentified)",
+   "raza": "Varanus sp.",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 185,
+   "nombre": "Quoll, eastern",
+   "raza": "Dasyurus viverrinus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 186,
+   "nombre": "Campo flicker",
+   "raza": "Colaptes campestroides",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 187,
+   "nombre": "Mockingbird, galapagos",
+   "raza": "Nesomimus trifasciatus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 188,
+   "nombre": "Albatross, galapagos",
+   "raza": "Diomedea irrorata",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 189,
+   "nombre": "Kiskadee, great",
+   "raza": "Pitangus sulphuratus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 190,
+   "nombre": "Common eland",
+   "raza": "Taurotagus oryx",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 191,
+   "nombre": "Genet, small-spotted",
+   "raza": "Genetta genetta",
+   "color": "Blue",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 192,
+   "nombre": "Frilled dragon",
+   "raza": "Chlamydosaurus kingii",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 193,
+   "nombre": "Common duiker",
+   "raza": "Sylvicapra grimma",
+   "color": "Red",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 194,
+   "nombre": "Mountain duck",
+   "raza": "Hymenolaimus malacorhynchus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 195,
+   "nombre": "Klipspringer",
+   "raza": "Oreotragus oreotragus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 196,
+   "nombre": "Stork, black-necked",
+   "raza": "Ephippiorhynchus mycteria",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 197,
+   "nombre": "Flightless cormorant",
+   "raza": "Nannopterum harrisi",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 198,
+   "nombre": "Lesser mouse lemur",
+   "raza": "Microcebus murinus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 199,
+   "nombre": "Northern fur seal",
+   "raza": "Callorhinus ursinus",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 200,
+   "nombre": "Manatee",
+   "raza": "Trichechus inunguis",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 201,
+   "nombre": "Sloth, hoffman's",
+   "raza": "Choloepus hoffmani",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 202,
+   "nombre": "Grouse, sage",
+   "raza": "Centrocercus urophasianus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 203,
+   "nombre": "Cat, long-tailed spotted",
+   "raza": "Felis wiedi or Leopardus weidi",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 204,
+   "nombre": "Wolf spider",
+   "raza": "Lycosa godeffroyi",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 205,
+   "nombre": "Eagle, long-crested hawk",
+   "raza": "Lophoaetus occipitalis",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 206,
+   "nombre": "Deer, barasingha",
+   "raza": "Cervus duvauceli",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 207,
+   "nombre": "Lesser double-collared sunbird",
+   "raza": "Nectarinia chalybea",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 208,
+   "nombre": "Possum, western pygmy",
+   "raza": "Cercatetus concinnus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 209,
+   "nombre": "Small-spotted genet",
+   "raza": "Genetta genetta",
+   "color": "Orange",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 210,
+   "nombre": "White-browed owl",
+   "raza": "Ninox superciliaris",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 211,
+   "nombre": "Red-billed hornbill",
+   "raza": "Tockus erythrorhyncus",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 212,
+   "nombre": "Huron",
+   "raza": "Galictis vittata",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 213,
+   "nombre": "Sheep, red",
+   "raza": "Ovis ammon",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 214,
+   "nombre": "Python (unidentified)",
+   "raza": "unavailable",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 215,
+   "nombre": "Baboon, chacma",
+   "raza": "Papio ursinus",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 216,
+   "nombre": "Spoonbill, european",
+   "raza": "Platalea leucordia",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 217,
+   "nombre": "Penguin, magellanic",
+   "raza": "Spheniscus magellanicus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 218,
+   "nombre": "Cliffchat, mocking",
+   "raza": "Thamnolaea cinnmomeiventris",
+   "color": "Blue",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 219,
+   "nombre": "Clark's nutcracker",
+   "raza": "Nucifraga columbiana",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 220,
+   "nombre": "Brown antechinus",
+   "raza": "Antechinus flavipes",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 221,
+   "nombre": "Cat, jungle",
+   "raza": "Felis chaus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 222,
+   "nombre": "Barrows goldeneye",
+   "raza": "Bucephala clangula",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 223,
+   "nombre": "Southern boubou",
+   "raza": "Laniarius ferrugineus",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 224,
+   "nombre": "Cliffchat, mocking",
+   "raza": "Thamnolaea cinnmomeiventris",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 225,
+   "nombre": "Genet, common",
+   "raza": "Genetta genetta",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 226,
+   "nombre": "Squirrel, thirteen-lined",
+   "raza": "Spermophilus tridecemlineatus",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 227,
+   "nombre": "Cat, kaffir",
+   "raza": "Felis silvestris lybica",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 228,
+   "nombre": "Dragon, asian water",
+   "raza": "Physignathus cocincinus",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 229,
+   "nombre": "Duck, mountain",
+   "raza": "Hymenolaimus malacorhynchus",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 230,
+   "nombre": "Red deer",
+   "raza": "Cervus elaphus",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 231,
+   "nombre": "Bushpig",
+   "raza": "Potamochoerus porcus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 232,
+   "nombre": "Black-footed ferret",
+   "raza": "Mustela nigripes",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 233,
+   "nombre": "Porcupine, tree",
+   "raza": "Coendou prehensilis",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 234,
+   "nombre": "Stork, white",
+   "raza": "Ciconia ciconia",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 235,
+   "nombre": "Goose, cape barren",
+   "raza": "Cereopsis novaehollandiae",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 236,
+   "nombre": "Pigeon, feral rock",
+   "raza": "Columba livia",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 237,
+   "nombre": "Eastern cottontail rabbit",
+   "raza": "Sylvilagus floridanus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 238,
+   "nombre": "Shrike, crimson-breasted",
+   "raza": "Laniaurius atrococcineus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 239,
+   "nombre": "Golden brush-tailed possum",
+   "raza": "Trichosurus vulpecula",
+   "color": "Fuscia",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 240,
+   "nombre": "Glider, feathertail",
+   "raza": "Acrobates pygmaeus",
+   "color": "Crimson",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 241,
+   "nombre": "Agama lizard (unidentified)",
+   "raza": "Agama sp.",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 242,
+   "nombre": "Cape fox",
+   "raza": "Vulpes chama",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 243,
+   "nombre": "Grebe, little",
+   "raza": "Tachybaptus ruficollis",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 244,
+   "nombre": "Spectacled caiman",
+   "raza": "Caiman crocodilus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 245,
+   "nombre": "Buttermilk snake",
+   "raza": "Coluber constrictor",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 246,
+   "nombre": "Jackal, golden",
+   "raza": "Canis aureus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 247,
+   "nombre": "Vulture, bengal",
+   "raza": "Gyps bengalensis",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 248,
+   "nombre": "Macaw, blue and gold",
+   "raza": "Ara ararauna",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 249,
+   "nombre": "Otter, african clawless",
+   "raza": "Aonyx capensis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 250,
+   "nombre": "Grouse, greater sage",
+   "raza": "Centrocercus urophasianus",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 251,
+   "nombre": "Tern, white-winged black",
+   "raza": "Chlidonias leucopterus",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 252,
+   "nombre": "Red-billed toucan",
+   "raza": "Ramphastos tucanus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 253,
+   "nombre": "Radiated tortoise",
+   "raza": "Geochelone radiata",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 254,
+   "nombre": "Booby, blue-faced",
+   "raza": "Sula dactylatra",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 255,
+   "nombre": "Swainson's francolin",
+   "raza": "Francolinus swainsonii",
+   "color": "Red",
+   "genero": "Bigender",
+   "vacunas": true
+ },
+ {
+   "id": 256,
+   "nombre": "Spurfowl, yellow-necked",
+   "raza": "Francolinus leucoscepus",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 257,
+   "nombre": "Heron, goliath",
+   "raza": "Ardea golieth",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 258,
+   "nombre": "Guerza",
+   "raza": "Colobus guerza",
+   "color": "Pink",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 259,
+   "nombre": "White-throated robin",
+   "raza": "Irania gutteralis",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 260,
+   "nombre": "Bustard, kori",
+   "raza": "Choriotis kori",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 261,
+   "nombre": "Squirrel, smith's bush",
+   "raza": "Paraxerus cepapi",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 262,
+   "nombre": "Brocket, brown",
+   "raza": "Mazama gouazoubira",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 263,
+   "nombre": "Pied crow",
+   "raza": "Corvus albus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 264,
+   "nombre": "Turkey, australian brush",
+   "raza": "Alectura lathami",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 265,
+   "nombre": "Moccasin, water",
+   "raza": "Agkistrodon piscivorus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 266,
+   "nombre": "South African hedgehog",
+   "raza": "Erinaceus frontalis",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 267,
+   "nombre": "Chestnut weaver",
+   "raza": "Ploceus rubiginosus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 268,
+   "nombre": "Bandicoot, southern brown",
+   "raza": "Isoodon obesulus",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 269,
+   "nombre": "Waxbill, blue",
+   "raza": "Uraeginthus angolensis",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 270,
+   "nombre": "Blue peacock",
+   "raza": "Pavo cristatus",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 271,
+   "nombre": "Southern elephant seal",
+   "raza": "Mirounga leonina",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 272,
+   "nombre": "American badger",
+   "raza": "Taxidea taxus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 273,
+   "nombre": "Savannah deer",
+   "raza": "Mazama gouazoubira",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 274,
+   "nombre": "Alligator, mississippi",
+   "raza": "Alligator mississippiensis",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 275,
+   "nombre": "Butterfly (unidentified)",
+   "raza": "unavailable",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 276,
+   "nombre": "Yellow mongoose",
+   "raza": "Cynictis penicillata",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 277,
+   "nombre": "Uinta ground squirrel",
+   "raza": "Spermophilus armatus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 278,
+   "nombre": "Sockeye salmon",
+   "raza": "Oncorhynchus nerka",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 279,
+   "nombre": "Vine snake (unidentified)",
+   "raza": "Oxybelis sp.",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 280,
+   "nombre": "Laughing kookaburra",
+   "raza": "Dacelo novaeguineae",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 281,
+   "nombre": "Swallow-tail gull",
+   "raza": "Creagrus furcatus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 282,
+   "nombre": "Deer, spotted",
+   "raza": "Axis axis",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 283,
+   "nombre": "Hyena, spotted",
+   "raza": "Crocuta crocuta",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 284,
+   "nombre": "Small-spotted genet",
+   "raza": "Genetta genetta",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 285,
+   "nombre": "Red lava crab",
+   "raza": "Graspus graspus",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 286,
+   "nombre": "Little brown bat",
+   "raza": "Myotis lucifugus",
+   "color": "Aquamarine",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 287,
+   "nombre": "Stork, woolly-necked",
+   "raza": "Ciconia episcopus",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 288,
+   "nombre": "Deer, swamp",
+   "raza": "Cervus duvauceli",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 289,
+   "nombre": "Red meerkat",
+   "raza": "Cynictis penicillata",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 290,
+   "nombre": "Southern screamer",
+   "raza": "Chauna torquata",
+   "color": "Maroon",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 291,
+   "nombre": "Pied cormorant",
+   "raza": "Phalacrocorax varius",
+   "color": "Violet",
+   "genero": "Bigender",
+   "vacunas": false
+ },
+ {
+   "id": 292,
+   "nombre": "Spoonbill, european",
+   "raza": "Platalea leucordia",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 293,
+   "nombre": "Skunk, striped",
+   "raza": "Mephitis mephitis",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 294,
+   "nombre": "Dove, rock",
+   "raza": "Columba livia",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 295,
+   "nombre": "Crested porcupine",
+   "raza": "Hystrix cristata",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 296,
+   "nombre": "Rufous-collared sparrow",
+   "raza": "Zonotrichia capensis",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 297,
+   "nombre": "Francolin, swainson's",
+   "raza": "Francolinus swainsonii",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 298,
+   "nombre": "Weaver, lesser masked",
+   "raza": "Ploceus intermedius",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 299,
+   "nombre": "North American river otter",
+   "raza": "Lutra canadensis",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 300,
+   "nombre": "Great kiskadee",
+   "raza": "Pitangus sulphuratus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 301,
+   "nombre": "African buffalo",
+   "raza": "Snycerus caffer",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 302,
+   "nombre": "Beaver, north american",
+   "raza": "Castor canadensis",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 303,
+   "nombre": "Waterbuck, common",
+   "raza": "Kobus defassa",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 304,
+   "nombre": "Lemur, grey mouse",
+   "raza": "Microcebus murinus",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 305,
+   "nombre": "Dragon, netted rock",
+   "raza": "Ctenophorus ornatus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 306,
+   "nombre": "Spider, wolf",
+   "raza": "Lycosa godeffroyi",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 307,
+   "nombre": "Armadillo, common long-nosed",
+   "raza": "Dasypus novemcinctus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 308,
+   "nombre": "Bear, sloth",
+   "raza": "Melursus ursinus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 309,
+   "nombre": "Vulture, bengal",
+   "raza": "Gyps bengalensis",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 310,
+   "nombre": "Eurasian red squirrel",
+   "raza": "Sciurus vulgaris",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 311,
+   "nombre": "Urial",
+   "raza": "Ovis orientalis",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 312,
+   "nombre": "Sunbird, lesser double-collared",
+   "raza": "Nectarinia chalybea",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 313,
+   "nombre": "Robin, white-throated",
+   "raza": "Irania gutteralis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 314,
+   "nombre": "Rattlesnake, dusky",
+   "raza": "Crotalus triseriatus",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 315,
+   "nombre": "Flamingo, chilean",
+   "raza": "Phoenicopterus chilensis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 316,
+   "nombre": "Sandhill crane",
+   "raza": "Grus canadensis",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 317,
+   "nombre": "Chilean flamingo",
+   "raza": "Phoenicopterus chilensis",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 318,
+   "nombre": "Plover, three-banded",
+   "raza": "Charadrius tricollaris",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 319,
+   "nombre": "Black-faced kangaroo",
+   "raza": "Macropus fuliginosus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 320,
+   "nombre": "Loris, slender",
+   "raza": "Loris tardigratus",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 321,
+   "nombre": "Otter, african clawless",
+   "raza": "Aonyx capensis",
+   "color": "Violet",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 322,
+   "nombre": "Tortoise, radiated",
+   "raza": "Geochelone radiata",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 323,
+   "nombre": "Camel, dromedary",
+   "raza": "Camelus dromedarius",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 324,
+   "nombre": "American Virginia opossum",
+   "raza": "Didelphis virginiana",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 325,
+   "nombre": "Rose-ringed parakeet",
+   "raza": "Psittacula krameri",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 326,
+   "nombre": "Grey lourie",
+   "raza": "Lorythaixoides concolor",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 327,
+   "nombre": "Peccary, white-lipped",
+   "raza": "Tayassu pecari",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 328,
+   "nombre": "Grebe, little",
+   "raza": "Tachybaptus ruficollis",
+   "color": "Green",
+   "genero": "Agender",
+   "vacunas": true
+ },
+ {
+   "id": 329,
+   "nombre": "Goliath heron",
+   "raza": "Ardea golieth",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 330,
+   "nombre": "Rattlesnake, horned",
+   "raza": "Crotalus cerastes",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 331,
+   "nombre": "Phalarope, grey",
+   "raza": "Phalaropus fulicarius",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 332,
+   "nombre": "Nile crocodile",
+   "raza": "Crocodylus niloticus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 333,
+   "nombre": "Woodpecker, downy",
+   "raza": "Picoides pubescens",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 334,
+   "nombre": "Pelican, australian",
+   "raza": "Pelecanus conspicillatus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 335,
+   "nombre": "Masked booby",
+   "raza": "Sula dactylatra",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 336,
+   "nombre": "Lemur, lesser mouse",
+   "raza": "Microcebus murinus",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 337,
+   "nombre": "Bateleur eagle",
+   "raza": "Terathopius ecaudatus",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 338,
+   "nombre": "Duck, white-faced whistling",
+   "raza": "Dendrocygna viduata",
+   "color": "Turquoise",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 339,
+   "nombre": "Cormorant, flightless",
+   "raza": "Nannopterum harrisi",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 340,
+   "nombre": "Tern, arctic",
+   "raza": "Sterna paradisaea",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 341,
+   "nombre": "Emerald-spotted wood dove",
+   "raza": "Turtur chalcospilos",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 342,
+   "nombre": "Blue shark",
+   "raza": "Prionace glauca",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 343,
+   "nombre": "Partridge, coqui",
+   "raza": "Francolinus coqui",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 344,
+   "nombre": "Dunnart, fat-tailed",
+   "raza": "Smithopsis crassicaudata",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 345,
+   "nombre": "Frilled lizard",
+   "raza": "Chlamydosaurus kingii",
+   "color": "Teal",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 346,
+   "nombre": "Red lava crab",
+   "raza": "Graspus graspus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 347,
+   "nombre": "Brazilian tapir",
+   "raza": "Tapirus terrestris",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 348,
+   "nombre": "Booby, blue-faced",
+   "raza": "Sula dactylatra",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 349,
+   "nombre": "Jackrabbit, white-tailed",
+   "raza": "Lepus townsendii",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 350,
+   "nombre": "Chital",
+   "raza": "Axis axis",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 351,
+   "nombre": "Crane, stanley",
+   "raza": "Anthropoides paradisea",
+   "color": "Maroon",
+   "genero": "Bigender",
+   "vacunas": false
+ },
+ {
+   "id": 352,
+   "nombre": "Gecko, ring-tailed",
+   "raza": "Cyrtodactylus louisiadensis",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 353,
+   "nombre": "Lapwing, southern",
+   "raza": "Vanellus chilensis",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 354,
+   "nombre": "Magistrate black colobus",
+   "raza": "Colobus guerza",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 355,
+   "nombre": "Chipmunk, least",
+   "raza": "Eutamias minimus",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 356,
+   "nombre": "Crab, red lava",
+   "raza": "Graspus graspus",
+   "color": "Crimson",
+   "genero": "Non-binary",
+   "vacunas": false
+ },
+ {
+   "id": 357,
+   "nombre": "Goliath heron",
+   "raza": "Ardea golieth",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 358,
+   "nombre": "Yellow-headed caracara",
+   "raza": "Milvago chimachima",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 359,
+   "nombre": "Pied cormorant",
+   "raza": "Phalacrocorax varius",
+   "color": "Green",
+   "genero": "Bigender",
+   "vacunas": false
+ },
+ {
+   "id": 360,
+   "nombre": "Egyptian vulture",
+   "raza": "Neophron percnopterus",
+   "color": "Goldenrod",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 361,
+   "nombre": "Bulbul, black-eyed",
+   "raza": "Pycnonotus barbatus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 362,
+   "nombre": "Skink, blue-tongued",
+   "raza": "Tiliqua scincoides",
+   "color": "Pink",
+   "genero": "Polygender",
+   "vacunas": true
+ },
+ {
+   "id": 363,
+   "nombre": "Plover, blacksmith",
+   "raza": "Vanellus armatus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 364,
+   "nombre": "Hartebeest, coke's",
+   "raza": "Alcelaphus buselaphus cokii",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 365,
+   "nombre": "Smith's bush squirrel",
+   "raza": "Paraxerus cepapi",
+   "color": "Puce",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 366,
+   "nombre": "Rufous tree pie",
+   "raza": "Dendrocitta vagabunda",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 367,
+   "nombre": "Yellow-rumped siskin",
+   "raza": "Carduelis uropygialis",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 368,
+   "nombre": "Comb duck",
+   "raza": "Sarkidornis melanotos",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 369,
+   "nombre": "Oystercatcher, blackish",
+   "raza": "Haematopus ater",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 370,
+   "nombre": "Seal, common",
+   "raza": "Phoca vitulina",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 371,
+   "nombre": "Serval",
+   "raza": "Felis serval",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 372,
+   "nombre": "Macaw, blue and yellow",
+   "raza": "Ara ararauna",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 373,
+   "nombre": "Black-cheeked waxbill",
+   "raza": "Estrilda erythronotos",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 374,
+   "nombre": "Northern phalarope",
+   "raza": "Phalaropus lobatus",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 375,
+   "nombre": "Armadillo, giant",
+   "raza": "Priodontes maximus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 376,
+   "nombre": "Bat-eared fox",
+   "raza": "Otocyon megalotis",
+   "color": "Turquoise",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 377,
+   "nombre": "Hawk, ferruginous",
+   "raza": "Buteo regalis",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 378,
+   "nombre": "Crimson-breasted shrike",
+   "raza": "Laniaurius atrococcineus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 379,
+   "nombre": "Brown antechinus",
+   "raza": "Antechinus flavipes",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 380,
+   "nombre": "Zorro, azara's",
+   "raza": "Pseudalopex gymnocercus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 381,
+   "nombre": "Fox, grey",
+   "raza": "Vulpes cinereoargenteus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 382,
+   "nombre": "Canada goose",
+   "raza": "Branta canadensis",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 383,
+   "nombre": "Jacana, african",
+   "raza": "Actophilornis africanus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 384,
+   "nombre": "Madagascar hawk owl",
+   "raza": "Ninox superciliaris",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 385,
+   "nombre": "Spotted hyena",
+   "raza": "Crocuta crocuta",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 386,
+   "nombre": "Native cat",
+   "raza": "Dasyurus viverrinus",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 387,
+   "nombre": "Stork, marabou",
+   "raza": "Leptoptilos crumeniferus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 388,
+   "nombre": "Kangaroo, red",
+   "raza": "Macropus rufus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 389,
+   "nombre": "Sulfur-crested cockatoo",
+   "raza": "Cacatua galerita",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 390,
+   "nombre": "Bandicoot, southern brown",
+   "raza": "Isoodon obesulus",
+   "color": "Maroon",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 391,
+   "nombre": "Bird, red-billed tropic",
+   "raza": "Phaethon aethereus",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 392,
+   "nombre": "Duck, white-faced whistling",
+   "raza": "Dendrocygna viduata",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 393,
+   "nombre": "Galapagos albatross",
+   "raza": "Diomedea irrorata",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 394,
+   "nombre": "Indian mynah",
+   "raza": "Acridotheres tristis",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 395,
+   "nombre": "Steller's sea lion",
+   "raza": "Eumetopias jubatus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 396,
+   "nombre": "Glossy starling (unidentified)",
+   "raza": "Lamprotornis sp.",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 397,
+   "nombre": "Hornbill, yellow-billed",
+   "raza": "Tockus flavirostris",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 398,
+   "nombre": "Goose, greylag",
+   "raza": "Anser anser",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 399,
+   "nombre": "Insect, stick",
+   "raza": "Leprocaulinus vipera",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 400,
+   "nombre": "Eagle, african fish",
+   "raza": "Haliaetus vocifer",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 401,
+   "nombre": "Black-collared barbet",
+   "raza": "Lybius torquatus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 402,
+   "nombre": "Eleven-banded armadillo (unidentified)",
+   "raza": "Cabassous sp.",
+   "color": "Crimson",
+   "genero": "Polygender",
+   "vacunas": true
+ },
+ {
+   "id": 403,
+   "nombre": "Stanley crane",
+   "raza": "Anthropoides paradisea",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 404,
+   "nombre": "Parrot, hawk-headed",
+   "raza": "Deroptyus accipitrinus",
+   "color": "Purple",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 405,
+   "nombre": "Baboon, savanna",
+   "raza": "Papio cynocephalus",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 406,
+   "nombre": "Pocket gopher (unidentified)",
+   "raza": "unavailable",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 407,
+   "nombre": "Indian peacock",
+   "raza": "Pavo cristatus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 408,
+   "nombre": "Ground monitor (unidentified)",
+   "raza": "Varanus sp.",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 409,
+   "nombre": "Lesser mouse lemur",
+   "raza": "Microcebus murinus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 410,
+   "nombre": "Mudskipper (unidentified)",
+   "raza": "unavailable",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 411,
+   "nombre": "Bushbuck",
+   "raza": "Tragelaphus scriptus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 412,
+   "nombre": "Woodpecker, red-headed",
+   "raza": "Melanerpes erythrocephalus",
+   "color": "Purple",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 413,
+   "nombre": "Tokay gecko",
+   "raza": "Gekko gecko",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 414,
+   "nombre": "Dingo",
+   "raza": "Canis dingo",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 415,
+   "nombre": "Skua, long-tailed",
+   "raza": "Stercorarius longicausus",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 416,
+   "nombre": "Ringtail",
+   "raza": "Bassariscus astutus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 417,
+   "nombre": "Rhinoceros, white",
+   "raza": "Ceratotherium simum",
+   "color": "Orange",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 418,
+   "nombre": "Dolphin, common",
+   "raza": "Delphinus delphis",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 419,
+   "nombre": "African lynx",
+   "raza": "Felis caracal",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 420,
+   "nombre": "Caracara, yellow-headed",
+   "raza": "Milvago chimachima",
+   "color": "Aquamarine",
+   "genero": "Genderqueer",
+   "vacunas": true
+ },
+ {
+   "id": 421,
+   "nombre": "Armadillo, nine-banded",
+   "raza": "Dasypus novemcinctus",
+   "color": "Goldenrod",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 422,
+   "nombre": "Long-necked turtle",
+   "raza": "Chelodina longicollis",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 423,
+   "nombre": "Mongoose, eastern dwarf",
+   "raza": "Helogale undulata",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 424,
+   "nombre": "Darwin ground finch (unidentified)",
+   "raza": "Geospiza sp.",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 425,
+   "nombre": "Owl, snowy",
+   "raza": "Nyctea scandiaca",
+   "color": "Purple",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 426,
+   "nombre": "Polecat, african",
+   "raza": "Ictonyx striatus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 427,
+   "nombre": "Snake, racer",
+   "raza": "Coluber constrictor",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 428,
+   "nombre": "Snow goose",
+   "raza": "Anser caerulescens",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 429,
+   "nombre": "Antelope, roan",
+   "raza": "Hippotragus equinus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 430,
+   "nombre": "Jungle cat",
+   "raza": "Felis chaus",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 431,
+   "nombre": "Gazelle, grant's",
+   "raza": "Gazella granti",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 432,
+   "nombre": "Green-backed heron",
+   "raza": "Butorides striatus",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 433,
+   "nombre": "Legaan, Monitor (unidentified)",
+   "raza": "Varanus sp.",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 434,
+   "nombre": "Puku",
+   "raza": "Kobus vardonii vardoni",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 435,
+   "nombre": "Little cormorant",
+   "raza": "Phalacrocorax niger",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 436,
+   "nombre": "Steenbuck",
+   "raza": "Raphicerus campestris",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 437,
+   "nombre": "Common palm civet",
+   "raza": "Paradoxurus hermaphroditus",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 438,
+   "nombre": "Warthog",
+   "raza": "Phacochoerus aethiopus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 439,
+   "nombre": "Pelican, australian",
+   "raza": "Pelecanus conspicillatus",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 440,
+   "nombre": "Hawk, ferruginous",
+   "raza": "Buteo regalis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 441,
+   "nombre": "Cape cobra",
+   "raza": "Naja nivea",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 442,
+   "nombre": "Crake, african black",
+   "raza": "Limnocorax flavirostra",
+   "color": "Goldenrod",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 443,
+   "nombre": "Seven-banded armadillo",
+   "raza": "Dasypus septemcincus",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 444,
+   "nombre": "Common wombat",
+   "raza": "Vombatus ursinus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 445,
+   "nombre": "Snowy sheathbill",
+   "raza": "Chionis alba",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 446,
+   "nombre": "Baboon, gelada",
+   "raza": "Theropithecus gelada",
+   "color": "Turquoise",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 447,
+   "nombre": "Heron, goliath",
+   "raza": "Ardea golieth",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 448,
+   "nombre": "Badger, honey",
+   "raza": "Mellivora capensis",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 449,
+   "nombre": "Ass, asiatic wild",
+   "raza": "Equus hemionus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 450,
+   "nombre": "African ground squirrel (unidentified)",
+   "raza": "Xerus sp.",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 451,
+   "nombre": "Netted rock dragon",
+   "raza": "Ctenophorus ornatus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 452,
+   "nombre": "Deer, mule",
+   "raza": "Odocoileus hemionus",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 453,
+   "nombre": "Reindeer",
+   "raza": "Rangifer tarandus",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 454,
+   "nombre": "Striped skunk",
+   "raza": "Mephitis mephitis",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 455,
+   "nombre": "Black-backed jackal",
+   "raza": "Canis mesomelas",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 456,
+   "nombre": "Agama lizard (unidentified)",
+   "raza": "Agama sp.",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 457,
+   "nombre": "Bat-eared fox",
+   "raza": "Otocyon megalotis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 458,
+   "nombre": "Robin, white-throated",
+   "raza": "Irania gutteralis",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 459,
+   "nombre": "Eastern box turtle",
+   "raza": "Terrapene carolina",
+   "color": "Fuscia",
+   "genero": "Bigender",
+   "vacunas": false
+ },
+ {
+   "id": 460,
+   "nombre": "Dove, white-winged",
+   "raza": "Zenaida asiatica",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 461,
+   "nombre": "Mexican boa",
+   "raza": "Boa constrictor mexicana",
+   "color": "Blue",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 462,
+   "nombre": "Hanuman langur",
+   "raza": "Semnopithecus entellus",
+   "color": "Turquoise",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 463,
+   "nombre": "Oryx, beisa",
+   "raza": "Oryx gazella",
+   "color": "Red",
+   "genero": "Genderqueer",
+   "vacunas": true
+ },
+ {
+   "id": 464,
+   "nombre": "Pelican, australian",
+   "raza": "Pelecanus conspicillatus",
+   "color": "Khaki",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 465,
+   "nombre": "Toucan, white-throated",
+   "raza": "Ramphastos tucanus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 466,
+   "nombre": "Mexican wolf",
+   "raza": "Canis lupus baileyi",
+   "color": "Purple",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 467,
+   "nombre": "Squirrel, european red",
+   "raza": "Sciurus vulgaris",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 468,
+   "nombre": "Owl, great horned",
+   "raza": "Bubo virginianus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 469,
+   "nombre": "Cat, miner's",
+   "raza": "Bassariscus astutus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 470,
+   "nombre": "Southern tamandua",
+   "raza": "Tamandua tetradactyla",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 471,
+   "nombre": "Snow goose",
+   "raza": "Anser caerulescens",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 472,
+   "nombre": "Insect, stick",
+   "raza": "Leprocaulinus vipera",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 473,
+   "nombre": "Swamp deer",
+   "raza": "Cervus duvauceli",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 474,
+   "nombre": "Deer, white-tailed",
+   "raza": "Odocoilenaus virginianus",
+   "color": "Blue",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 475,
+   "nombre": "Black-faced kangaroo",
+   "raza": "Macropus fuliginosus",
+   "color": "Purple",
+   "genero": "Polygender",
+   "vacunas": true
+ },
+ {
+   "id": 476,
+   "nombre": "Blesbok",
+   "raza": "Damaliscus dorcas",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 477,
+   "nombre": "Rufous-collared sparrow",
+   "raza": "Zonotrichia capensis",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 478,
+   "nombre": "Robin, white-throated",
+   "raza": "Irania gutteralis",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 479,
+   "nombre": "African polecat",
+   "raza": "Ictonyx striatus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 480,
+   "nombre": "Blue peacock",
+   "raza": "Pavo cristatus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 481,
+   "nombre": "Wallaby, tammar",
+   "raza": "Macropus eugenii",
+   "color": "Turquoise",
+   "genero": "Agender",
+   "vacunas": true
+ },
+ {
+   "id": 482,
+   "nombre": "Antelope, sable",
+   "raza": "Hippotragus niger",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 483,
+   "nombre": "Lemming, arctic",
+   "raza": "Dicrostonyx groenlandicus",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 484,
+   "nombre": "Turkey, australian brush",
+   "raza": "Alectura lathami",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 485,
+   "nombre": "Blesbok",
+   "raza": "Damaliscus dorcas",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 486,
+   "nombre": "Egyptian goose",
+   "raza": "Alopochen aegyptiacus",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 487,
+   "nombre": "Albatross, waved",
+   "raza": "Diomedea irrorata",
+   "color": "Puce",
+   "genero": "Genderqueer",
+   "vacunas": true
+ },
+ {
+   "id": 488,
+   "nombre": "Dove, ring",
+   "raza": "Columba palumbus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 489,
+   "nombre": "Dolphin, common",
+   "raza": "Delphinus delphis",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 490,
+   "nombre": "Raccoon, common",
+   "raza": "Procyon lotor",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 491,
+   "nombre": "Mouflon",
+   "raza": "Ovis musimon",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 492,
+   "nombre": "Field flicker",
+   "raza": "Colaptes campestroides",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 493,
+   "nombre": "Insect, stick",
+   "raza": "Leprocaulinus vipera",
+   "color": "Maroon",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 494,
+   "nombre": "Capuchin, brown",
+   "raza": "Cebus apella",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 495,
+   "nombre": "Cape white-eye",
+   "raza": "Zosterops pallidus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 496,
+   "nombre": "Moccasin, water",
+   "raza": "Agkistrodon piscivorus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 497,
+   "nombre": "Grey phalarope",
+   "raza": "Phalaropus fulicarius",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 498,
+   "nombre": "Stork, jabiru",
+   "raza": "Ephippiorhynchus mycteria",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 499,
+   "nombre": "Possum, common brushtail",
+   "raza": "Trichosurus vulpecula",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 500,
+   "nombre": "Godwit, hudsonian",
+   "raza": "Limosa haemastica",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 501,
+   "nombre": "Green heron",
+   "raza": "Butorides striatus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 502,
+   "nombre": "American black bear",
+   "raza": "Ursus americanus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 503,
+   "nombre": "Arboral spiny rat",
+   "raza": "Echimys chrysurus",
+   "color": "Mauv",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 504,
+   "nombre": "Genet, small-spotted",
+   "raza": "Genetta genetta",
+   "color": "Crimson",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 505,
+   "nombre": "Goat, mountain",
+   "raza": "Oreamnos americanus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 506,
+   "nombre": "Chital",
+   "raza": "Axis axis",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 507,
+   "nombre": "Cliffchat, mocking",
+   "raza": "Thamnolaea cinnmomeiventris",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 508,
+   "nombre": "Sambar",
+   "raza": "Cervus unicolor",
+   "color": "Turquoise",
+   "genero": "Non-binary",
+   "vacunas": false
+ },
+ {
+   "id": 509,
+   "nombre": "Common dolphin",
+   "raza": "Delphinus delphis",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 510,
+   "nombre": "Eagle, african fish",
+   "raza": "Haliaetus vocifer",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 511,
+   "nombre": "Antelope, four-horned",
+   "raza": "Tetracerus quadricornis",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 512,
+   "nombre": "Beaver, eurasian",
+   "raza": "Castor fiber",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 513,
+   "nombre": "Sacred ibis",
+   "raza": "Threskionis aethiopicus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 514,
+   "nombre": "Wattled crane",
+   "raza": "Bugeranus caruncalatus",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 515,
+   "nombre": "White-necked raven",
+   "raza": "Corvus albicollis",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 516,
+   "nombre": "Neotropic cormorant",
+   "raza": "Phalacrocorax brasilianus",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 517,
+   "nombre": "Turtle, snake-necked",
+   "raza": "Chelodina longicollis",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 518,
+   "nombre": "Boa, emerald green tree",
+   "raza": "Boa caninus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 519,
+   "nombre": "Malachite kingfisher",
+   "raza": "Corythornis cristata",
+   "color": "Puce",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 520,
+   "nombre": "Stork, jabiru",
+   "raza": "Ephippiorhynchus mycteria",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 521,
+   "nombre": "Hornbill, yellow-billed",
+   "raza": "Tockus flavirostris",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 522,
+   "nombre": "Serval",
+   "raza": "Felis serval",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 523,
+   "nombre": "Cobra (unidentified)",
+   "raza": "Naja sp.",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 524,
+   "nombre": "Oryx, beisa",
+   "raza": "Oryx gazella",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 525,
+   "nombre": "Pine snake (unidentified)",
+   "raza": "Pituophis melanaleucus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 526,
+   "nombre": "Red brocket",
+   "raza": "Mazama americana",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 527,
+   "nombre": "Kelp gull",
+   "raza": "Larus dominicanus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 528,
+   "nombre": "Seven-banded armadillo",
+   "raza": "Dasypus septemcincus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 529,
+   "nombre": "Sheep, stone",
+   "raza": "Ovis dalli stonei",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 530,
+   "nombre": "Burrowing owl",
+   "raza": "Speotyte cuniculata",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 531,
+   "nombre": "Godwit, hudsonian",
+   "raza": "Limosa haemastica",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 532,
+   "nombre": "American bighorn sheep",
+   "raza": "Ovis canadensis",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 533,
+   "nombre": "Roe deer",
+   "raza": "Capreolus capreolus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 534,
+   "nombre": "Crimson-breasted shrike",
+   "raza": "Laniaurius atrococcineus",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 535,
+   "nombre": "Western patch-nosed snake",
+   "raza": "Salvadora hexalepis",
+   "color": "Puce",
+   "genero": "Agender",
+   "vacunas": true
+ },
+ {
+   "id": 536,
+   "nombre": "Crane, black-crowned",
+   "raza": "Balearica pavonina",
+   "color": "Mauv",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 537,
+   "nombre": "Crane, sarus",
+   "raza": "Grus antigone",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 538,
+   "nombre": "Uinta ground squirrel",
+   "raza": "Spermophilus armatus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 539,
+   "nombre": "Ring-tailed lemur",
+   "raza": "Lemur catta",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 540,
+   "nombre": "Platypus",
+   "raza": "Ornithorhynchus anatinus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 541,
+   "nombre": "Lizard, giant girdled",
+   "raza": "Cordylus giganteus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 542,
+   "nombre": "Butterfly (unidentified)",
+   "raza": "unavailable",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 543,
+   "nombre": "Crane, brolga",
+   "raza": "Grus rubicundus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 544,
+   "nombre": "Pheasant, common",
+   "raza": "Phasianus colchicus",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 545,
+   "nombre": "Curlew, black",
+   "raza": "Haematopus ater",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 546,
+   "nombre": "Bengal vulture",
+   "raza": "Gyps bengalensis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 547,
+   "nombre": "Boa, emerald green tree",
+   "raza": "Boa caninus",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 548,
+   "nombre": "Otter, giant",
+   "raza": "Pteronura brasiliensis",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 549,
+   "nombre": "Caribou",
+   "raza": "Rangifer tarandus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 550,
+   "nombre": "Arboral spiny rat",
+   "raza": "Echimys chrysurus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 551,
+   "nombre": "Python (unidentified)",
+   "raza": "unavailable",
+   "color": "Pink",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 552,
+   "nombre": "Wallaby, whip-tailed",
+   "raza": "Macropus parryi",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 553,
+   "nombre": "Fairy penguin",
+   "raza": "Eudyptula minor",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 554,
+   "nombre": "Red-necked phalarope",
+   "raza": "Phalaropus lobatus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 555,
+   "nombre": "Mockingbird, galapagos",
+   "raza": "Nesomimus trifasciatus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 556,
+   "nombre": "Golden brush-tailed possum",
+   "raza": "Trichosurus vulpecula",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 557,
+   "nombre": "Bear, grizzly",
+   "raza": "Ursus arctos",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 558,
+   "nombre": "Two-banded monitor",
+   "raza": "Varanus salvator",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 559,
+   "nombre": "Canadian river otter",
+   "raza": "Lutra canadensis",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 560,
+   "nombre": "Sociable weaver",
+   "raza": "Philetairus socius",
+   "color": "Yellow",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 561,
+   "nombre": "Blue fox",
+   "raza": "Alopex lagopus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 562,
+   "nombre": "Woodpecker, red-headed",
+   "raza": "Melanerpes erythrocephalus",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 563,
+   "nombre": "Woolly-necked stork",
+   "raza": "Ciconia episcopus",
+   "color": "Green",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 564,
+   "nombre": "Lava gull",
+   "raza": "Larus fuliginosus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 565,
+   "nombre": "Sloth, two-toed",
+   "raza": "Choloepus hoffmani",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 566,
+   "nombre": "Giant otter",
+   "raza": "Pteronura brasiliensis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 567,
+   "nombre": "Beaver, north american",
+   "raza": "Castor canadensis",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 568,
+   "nombre": "Wolf, timber",
+   "raza": "Canis lupus lycaon",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 569,
+   "nombre": "Rhea, greater",
+   "raza": "Rhea americana",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 570,
+   "nombre": "Red-winged hawk (unidentified)",
+   "raza": "unavailable",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 571,
+   "nombre": "Cobra, cape",
+   "raza": "Naja nivea",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 572,
+   "nombre": "Lourie, grey",
+   "raza": "Lorythaixoides concolor",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 573,
+   "nombre": "White-bellied sea eagle",
+   "raza": "Haliaetus leucogaster",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 574,
+   "nombre": "Monitor, water",
+   "raza": "Varanus salvator",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 575,
+   "nombre": "Rattlesnake, eastern diamondback",
+   "raza": "Crotalus adamanteus",
+   "color": "Green",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 576,
+   "nombre": "Lemur, sportive",
+   "raza": "Lepilemur rufescens",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 577,
+   "nombre": "Jaguarundi",
+   "raza": "Felis yagouaroundi",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 578,
+   "nombre": "Curlew, black",
+   "raza": "Haematopus ater",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 579,
+   "nombre": "Four-spotted skimmer",
+   "raza": "Libellula quadrimaculata",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 580,
+   "nombre": "Kongoni",
+   "raza": "Alcelaphus buselaphus cokii",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 581,
+   "nombre": "Spur-winged goose",
+   "raza": "Plectopterus gambensis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 582,
+   "nombre": "Whale, killer",
+   "raza": "Orcinus orca",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 583,
+   "nombre": "Iguana, marine",
+   "raza": "Amblyrhynchus cristatus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 584,
+   "nombre": "Eagle, white-bellied sea",
+   "raza": "Haliaetus leucogaster",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 585,
+   "nombre": "Common pheasant",
+   "raza": "Phasianus colchicus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 586,
+   "nombre": "Eastern diamondback rattlesnake",
+   "raza": "Crotalus adamanteus",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 587,
+   "nombre": "Bustard, denham's",
+   "raza": "Neotis denhami",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 588,
+   "nombre": "Turkey, wild",
+   "raza": "Meleagris gallopavo",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 589,
+   "nombre": "Eastern quoll",
+   "raza": "Dasyurus viverrinus",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 590,
+   "nombre": "Vulture, oriental white-backed",
+   "raza": "Gyps bengalensis",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 591,
+   "nombre": "Secretary bird",
+   "raza": "Sagittarius serpentarius",
+   "color": "Yellow",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 592,
+   "nombre": "Thrasher, curve-billed",
+   "raza": "Toxostoma curvirostre",
+   "color": "Khaki",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 593,
+   "nombre": "Sheep, stone",
+   "raza": "Ovis dalli stonei",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 594,
+   "nombre": "Thomson's gazelle",
+   "raza": "Gazella thompsonii",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 595,
+   "nombre": "Crab-eating fox",
+   "raza": "Dusicyon thous",
+   "color": "Yellow",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 596,
+   "nombre": "Great kiskadee",
+   "raza": "Pitangus sulphuratus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 597,
+   "nombre": "Coatimundi, white-nosed",
+   "raza": "Nasua narica",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 598,
+   "nombre": "Squirrel, antelope ground",
+   "raza": "Ammospermophilus nelsoni",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 599,
+   "nombre": "Hen, sage",
+   "raza": "Centrocercus urophasianus",
+   "color": "Yellow",
+   "genero": "Bigender",
+   "vacunas": false
+ },
+ {
+   "id": 600,
+   "nombre": "Beaver, european",
+   "raza": "Castor fiber",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 601,
+   "nombre": "Deer, savannah",
+   "raza": "Mazama gouazoubira",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 602,
+   "nombre": "Owl, great horned",
+   "raza": "Bubo virginianus",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 603,
+   "nombre": "Asiatic jackal",
+   "raza": "Canis aureus",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 604,
+   "nombre": "Gull, pacific",
+   "raza": "Gabianus pacificus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 605,
+   "nombre": "California sea lion",
+   "raza": "Zalophus californicus",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 606,
+   "nombre": "Black-throated cardinal",
+   "raza": "Paroaria gularis",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 607,
+   "nombre": "Goliath heron",
+   "raza": "Ardea golieth",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 608,
+   "nombre": "Mongoose, banded",
+   "raza": "Mungos mungo",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 609,
+   "nombre": "Bee-eater, white-fronted",
+   "raza": "Merops bullockoides",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 610,
+   "nombre": "Kangaroo, jungle",
+   "raza": "Macropus agilis",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 611,
+   "nombre": "Bare-faced go away bird",
+   "raza": "Lorythaixoides concolor",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 612,
+   "nombre": "Mexican boa",
+   "raza": "Boa constrictor mexicana",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 613,
+   "nombre": "North American river otter",
+   "raza": "Lutra canadensis",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 614,
+   "nombre": "Asian lion",
+   "raza": "Panthera leo persica",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 615,
+   "nombre": "Australian magpie",
+   "raza": "Gymnorhina tibicen",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 616,
+   "nombre": "Turaco, violet-crested",
+   "raza": "Tauraco porphyrelophus",
+   "color": "Blue",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 617,
+   "nombre": "Legaan, ground",
+   "raza": "Varanus sp.",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 618,
+   "nombre": "Ocelot",
+   "raza": "Felis pardalis",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 619,
+   "nombre": "Kongoni",
+   "raza": "Alcelaphus buselaphus cokii",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 620,
+   "nombre": "Admiral, indian red",
+   "raza": "Vanessa indica",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 621,
+   "nombre": "Curve-billed thrasher",
+   "raza": "Toxostoma curvirostre",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 622,
+   "nombre": "Godwit, hudsonian",
+   "raza": "Limosa haemastica",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 623,
+   "nombre": "Emerald-spotted wood dove",
+   "raza": "Turtur chalcospilos",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 624,
+   "nombre": "Monitor, two-banded",
+   "raza": "Varanus salvator",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 625,
+   "nombre": "Glider, squirrel",
+   "raza": "Petaurus norfolcensis",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 626,
+   "nombre": "Red-tailed hawk",
+   "raza": "Buteo jamaicensis",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 627,
+   "nombre": "Lesser flamingo",
+   "raza": "Phoeniconaias minor",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 628,
+   "nombre": "Yellow-necked spurfowl",
+   "raza": "Francolinus leucoscepus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 629,
+   "nombre": "Tawny eagle",
+   "raza": "Anitibyx armatus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 630,
+   "nombre": "Flightless cormorant",
+   "raza": "Nannopterum harrisi",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 631,
+   "nombre": "Guanaco",
+   "raza": "Lama guanicoe",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 632,
+   "nombre": "Nelson ground squirrel",
+   "raza": "Ammospermophilus nelsoni",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 633,
+   "nombre": "Caracal",
+   "raza": "Felis caracal",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 634,
+   "nombre": "Fork-tailed drongo",
+   "raza": "Dicrurus adsimilis",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 635,
+   "nombre": "Mouflon",
+   "raza": "Ovis musimon",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 636,
+   "nombre": "Lesser masked weaver",
+   "raza": "Ploceus intermedius",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 637,
+   "nombre": "Crab-eating fox",
+   "raza": "Dusicyon thous",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 638,
+   "nombre": "Owl, white-browed",
+   "raza": "Ninox superciliaris",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 639,
+   "nombre": "Urial",
+   "raza": "Ovis orientalis",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 640,
+   "nombre": "Tenrec, tailless",
+   "raza": "Tenrec ecaudatus",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 641,
+   "nombre": "Anteater, australian spiny",
+   "raza": "Tachyglossus aculeatus",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 642,
+   "nombre": "Water moccasin",
+   "raza": "Agkistrodon piscivorus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 643,
+   "nombre": "Gray heron",
+   "raza": "Ardea cinerea",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 644,
+   "nombre": "Common long-nosed armadillo",
+   "raza": "Dasypus novemcinctus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 645,
+   "nombre": "Zebra, plains",
+   "raza": "Equus burchelli",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 646,
+   "nombre": "Great kiskadee",
+   "raza": "Pitangus sulphuratus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 647,
+   "nombre": "Common green iguana",
+   "raza": "Iguana iguana",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 648,
+   "nombre": "Trotter, lily",
+   "raza": "Actophilornis africanus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 649,
+   "nombre": "Common wolf",
+   "raza": "Canis lupus",
+   "color": "Indigo",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 650,
+   "nombre": "Grouse, greater sage",
+   "raza": "Centrocercus urophasianus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 651,
+   "nombre": "White-winged black tern",
+   "raza": "Chlidonias leucopterus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 652,
+   "nombre": "Bettong, brush-tailed",
+   "raza": "Bettongia penicillata",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 653,
+   "nombre": "Rufous tree pie",
+   "raza": "Dendrocitta vagabunda",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 654,
+   "nombre": "Shelduck, european",
+   "raza": "Tadorna tadorna",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 655,
+   "nombre": "Monitor lizard (unidentified)",
+   "raza": "Varanus sp.",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 656,
+   "nombre": "Squirrel, antelope ground",
+   "raza": "Ammospermophilus nelsoni",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 657,
+   "nombre": "Black-tailed tree creeper",
+   "raza": "Climacteris melanura",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 658,
+   "nombre": "Dog, raccoon",
+   "raza": "Nyctereutes procyonoides",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 659,
+   "nombre": "American black bear",
+   "raza": "Ursus americanus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 660,
+   "nombre": "Magnificent frigate bird",
+   "raza": "Fregata magnificans",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 661,
+   "nombre": "Hyena, brown",
+   "raza": "Hyaena brunnea",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 662,
+   "nombre": "Malabar squirrel",
+   "raza": "Ratufa indica",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 663,
+   "nombre": "Zorilla",
+   "raza": "Ictonyx striatus",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 664,
+   "nombre": "Squirrel, malabar",
+   "raza": "Ratufa indica",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 665,
+   "nombre": "Southern sea lion",
+   "raza": "Otaria flavescens",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 666,
+   "nombre": "Four-spotted skimmer",
+   "raza": "Libellula quadrimaculata",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 667,
+   "nombre": "Stork, painted",
+   "raza": "Mycteria leucocephala",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 668,
+   "nombre": "Stork, yellow-billed",
+   "raza": "Mycteria ibis",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 669,
+   "nombre": "Greater rhea",
+   "raza": "Rhea americana",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 670,
+   "nombre": "Hawk, red-tailed",
+   "raza": "Buteo jamaicensis",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 671,
+   "nombre": "Secretary bird",
+   "raza": "Sagittarius serpentarius",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 672,
+   "nombre": "White stork",
+   "raza": "Ciconia ciconia",
+   "color": "Green",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 673,
+   "nombre": "Yellow-crowned night heron",
+   "raza": "Nyctanassa violacea",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 674,
+   "nombre": "Squirrel, pine",
+   "raza": "Tamiasciurus hudsonicus",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 675,
+   "nombre": "Bald eagle",
+   "raza": "Haliaeetus leucocephalus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 676,
+   "nombre": "Reindeer",
+   "raza": "Rangifer tarandus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 677,
+   "nombre": "Dassie",
+   "raza": "Dendrohyrax brucel",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 678,
+   "nombre": "Stork, saddle-billed",
+   "raza": "Ephipplorhynchus senegalensis",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 679,
+   "nombre": "European shelduck",
+   "raza": "Tadorna tadorna",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 680,
+   "nombre": "Owl, great horned",
+   "raza": "Bubo virginianus",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 681,
+   "nombre": "Cat, kaffir",
+   "raza": "Felis silvestris lybica",
+   "color": "Goldenrod",
+   "genero": "Bigender",
+   "vacunas": true
+ },
+ {
+   "id": 682,
+   "nombre": "Heron, boat-billed",
+   "raza": "Cochlearius cochlearius",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 683,
+   "nombre": "Fox, asian red",
+   "raza": "Vulpes vulpes",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 684,
+   "nombre": "Phalarope, red-necked",
+   "raza": "Phalaropus lobatus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 685,
+   "nombre": "Whale, killer",
+   "raza": "Orcinus orca",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 686,
+   "nombre": "American badger",
+   "raza": "Taxidea taxus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 687,
+   "nombre": "Ringtail cat",
+   "raza": "Bassariscus astutus",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 688,
+   "nombre": "Eastern white pelican",
+   "raza": "Pelecans onocratalus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 689,
+   "nombre": "Peccary, white-lipped",
+   "raza": "Tayassu pecari",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 690,
+   "nombre": "Peccary, collared",
+   "raza": "Tayassu tajacu",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 691,
+   "nombre": "Kingfisher, pied",
+   "raza": "Ceryle rudis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 692,
+   "nombre": "Campo flicker",
+   "raza": "Colaptes campestroides",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 693,
+   "nombre": "Seal, northern fur",
+   "raza": "Callorhinus ursinus",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 694,
+   "nombre": "Baboon, yellow",
+   "raza": "Papio cynocephalus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 695,
+   "nombre": "Dragon, komodo",
+   "raza": "Varanus komodensis",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 696,
+   "nombre": "African ground squirrel (unidentified)",
+   "raza": "Xerus sp.",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 697,
+   "nombre": "Booby, blue-faced",
+   "raza": "Sula dactylatra",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 698,
+   "nombre": "Greater blue-eared starling",
+   "raza": "Lamprotornis chalybaeus",
+   "color": "Khaki",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 699,
+   "nombre": "Gull, herring",
+   "raza": "unavailable",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 700,
+   "nombre": "Skink, blue-tongued",
+   "raza": "Tiliqua scincoides",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 701,
+   "nombre": "Brush-tailed bettong",
+   "raza": "Bettongia penicillata",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 702,
+   "nombre": "Eagle, long-crested hawk",
+   "raza": "Lophoaetus occipitalis",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 703,
+   "nombre": "Cottonmouth",
+   "raza": "Agkistrodon piscivorus",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 704,
+   "nombre": "Echidna, short-beaked",
+   "raza": "Tachyglossus aculeatus",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 705,
+   "nombre": "White-tailed deer",
+   "raza": "Odocoilenaus virginianus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 706,
+   "nombre": "Otter, cape clawless",
+   "raza": "Aonyx capensis",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 707,
+   "nombre": "Roadrunner, greater",
+   "raza": "Geococcyx californianus",
+   "color": "Purple",
+   "genero": "Bigender",
+   "vacunas": true
+ },
+ {
+   "id": 708,
+   "nombre": "Armadillo, giant",
+   "raza": "Priodontes maximus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 709,
+   "nombre": "Common genet",
+   "raza": "Genetta genetta",
+   "color": "Yellow",
+   "genero": "Genderqueer",
+   "vacunas": true
+ },
+ {
+   "id": 710,
+   "nombre": "Phalarope, northern",
+   "raza": "Phalaropus lobatus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 711,
+   "nombre": "Sulfur-crested cockatoo",
+   "raza": "Cacatua galerita",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 712,
+   "nombre": "Openbill, asian",
+   "raza": "Anastomus oscitans",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 713,
+   "nombre": "Frogmouth, tawny",
+   "raza": "Podargus strigoides",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 714,
+   "nombre": "Zorro, common",
+   "raza": "Dusicyon thous",
+   "color": "Goldenrod",
+   "genero": "Genderqueer",
+   "vacunas": false
+ },
+ {
+   "id": 715,
+   "nombre": "Dog, black-tailed prairie",
+   "raza": "Cynomys ludovicianus",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 716,
+   "nombre": "European stork",
+   "raza": "Ciconia ciconia",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 717,
+   "nombre": "Francolin, coqui",
+   "raza": "Francolinus coqui",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 718,
+   "nombre": "Rufous tree pie",
+   "raza": "Dendrocitta vagabunda",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 719,
+   "nombre": "European red squirrel",
+   "raza": "Sciurus vulgaris",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 720,
+   "nombre": "Pied cormorant",
+   "raza": "Phalacrocorax varius",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 721,
+   "nombre": "Dusky rattlesnake",
+   "raza": "Crotalus triseriatus",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 722,
+   "nombre": "Desert tortoise",
+   "raza": "Gopherus agassizii",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 723,
+   "nombre": "Sheathbill, snowy",
+   "raza": "Chionis alba",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 724,
+   "nombre": "Carpet snake",
+   "raza": "Morelia spilotes variegata",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 725,
+   "nombre": "Pie, rufous tree",
+   "raza": "Dendrocitta vagabunda",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 726,
+   "nombre": "Komodo dragon",
+   "raza": "Varanus komodensis",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 727,
+   "nombre": "Tinamou, elegant crested",
+   "raza": "Eudromia elegans",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 728,
+   "nombre": "Turkey vulture",
+   "raza": "Cathartes aura",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 729,
+   "nombre": "Skua, great",
+   "raza": "Catharacta skua",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 730,
+   "nombre": "Shrike, southern white-crowned",
+   "raza": "Eurocephalus anguitimens",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 731,
+   "nombre": "Lily trotter",
+   "raza": "Actophilornis africanus",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 732,
+   "nombre": "South American puma",
+   "raza": "Felis concolor",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 733,
+   "nombre": "Tortoise, indian star",
+   "raza": "Geochelone elegans",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 734,
+   "nombre": "Plains zebra",
+   "raza": "Equus burchelli",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 735,
+   "nombre": "Little heron",
+   "raza": "Butorides striatus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 736,
+   "nombre": "Pied kingfisher",
+   "raza": "Ceryle rudis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 737,
+   "nombre": "Albatross, waved",
+   "raza": "Diomedea irrorata",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 738,
+   "nombre": "Dove, emerald-spotted wood",
+   "raza": "Turtur chalcospilos",
+   "color": "Blue",
+   "genero": "Non-binary",
+   "vacunas": false
+ },
+ {
+   "id": 739,
+   "nombre": "Frilled dragon",
+   "raza": "Chlamydosaurus kingii",
+   "color": "Puce",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 740,
+   "nombre": "Tsessebe",
+   "raza": "Damaliscus lunatus",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 741,
+   "nombre": "Mongoose, javan gold-spotted",
+   "raza": "Herpestes javanicus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 742,
+   "nombre": "Penguin, galapagos",
+   "raza": "Spheniscus mendiculus",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 743,
+   "nombre": "Sacred ibis",
+   "raza": "Threskionis aethiopicus",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 744,
+   "nombre": "Squirrel, thirteen-lined",
+   "raza": "Spermophilus tridecemlineatus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 745,
+   "nombre": "Brown pelican",
+   "raza": "Pelecanus occidentalis",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 746,
+   "nombre": "Asian false vampire bat",
+   "raza": "Megaderma spasma",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 747,
+   "nombre": "Phalarope, northern",
+   "raza": "Phalaropus lobatus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 748,
+   "nombre": "Netted rock dragon",
+   "raza": "Ctenophorus ornatus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 749,
+   "nombre": "Herring gull",
+   "raza": "unavailable",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 750,
+   "nombre": "Mouflon",
+   "raza": "Ovis musimon",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 751,
+   "nombre": "Crane, wattled",
+   "raza": "Bugeranus caruncalatus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 752,
+   "nombre": "Stork, marabou",
+   "raza": "Leptoptilos crumeniferus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 753,
+   "nombre": "Spoonbill, european",
+   "raza": "Platalea leucordia",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 754,
+   "nombre": "Rhinoceros, square-lipped",
+   "raza": "Ceratotherium simum",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 755,
+   "nombre": "Eagle, tawny",
+   "raza": "Anitibyx armatus",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 756,
+   "nombre": "Gull, silver",
+   "raza": "Larus novaehollandiae",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 757,
+   "nombre": "Bontebok",
+   "raza": "Damaliscus dorcas",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 758,
+   "nombre": "Barasingha deer",
+   "raza": "Cervus duvauceli",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 759,
+   "nombre": "Possum, common brushtail",
+   "raza": "Trichosurus vulpecula",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 760,
+   "nombre": "Penguin, little blue",
+   "raza": "Eudyptula minor",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 761,
+   "nombre": "Peacock, indian",
+   "raza": "Pavo cristatus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 762,
+   "nombre": "Colobus, black and white",
+   "raza": "Colobus guerza",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 763,
+   "nombre": "Dragon, asian water",
+   "raza": "Physignathus cocincinus",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 764,
+   "nombre": "Eastern quoll",
+   "raza": "Dasyurus viverrinus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 765,
+   "nombre": "Stanley bustard",
+   "raza": "Neotis denhami",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 766,
+   "nombre": "Guerza",
+   "raza": "Colobus guerza",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 767,
+   "nombre": "Ostrich",
+   "raza": "Struthio camelus",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 768,
+   "nombre": "Reedbuck, bohor",
+   "raza": "Redunca redunca",
+   "color": "Yellow",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 769,
+   "nombre": "Red-tailed cockatoo",
+   "raza": "Calyptorhynchus magnificus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 770,
+   "nombre": "Seal, northern elephant",
+   "raza": "Mirounga angustirostris",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 771,
+   "nombre": "Rhea, greater",
+   "raza": "Rhea americana",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 772,
+   "nombre": "Turtle, snake-necked",
+   "raza": "Chelodina longicollis",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 773,
+   "nombre": "Ibis, puna",
+   "raza": "Plegadis ridgwayi",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 774,
+   "nombre": "Warthog",
+   "raza": "Phacochoerus aethiopus",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 775,
+   "nombre": "Black-tailed deer",
+   "raza": "Odocoileus hemionus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 776,
+   "nombre": "Purple moorhen",
+   "raza": "Porphyrio porphyrio",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 777,
+   "nombre": "Northern elephant seal",
+   "raza": "Mirounga angustirostris",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 778,
+   "nombre": "American badger",
+   "raza": "Taxidea taxus",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 779,
+   "nombre": "Jaguar",
+   "raza": "Panthera onca",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 780,
+   "nombre": "Roe deer",
+   "raza": "Capreolus capreolus",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 781,
+   "nombre": "White-winged dove",
+   "raza": "Zenaida asiatica",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 782,
+   "nombre": "Dove, mourning collared",
+   "raza": "Streptopelia decipiens",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 783,
+   "nombre": "Sally lightfoot crab",
+   "raza": "Graspus graspus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 784,
+   "nombre": "Coke's hartebeest",
+   "raza": "Alcelaphus buselaphus cokii",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 785,
+   "nombre": "Colobus, black and white",
+   "raza": "Colobus guerza",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 786,
+   "nombre": "Green-backed heron",
+   "raza": "Butorides striatus",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 787,
+   "nombre": "Violet-crested turaco",
+   "raza": "Tauraco porphyrelophus",
+   "color": "Fuscia",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 788,
+   "nombre": "Jackrabbit, white-tailed",
+   "raza": "Lepus townsendii",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 789,
+   "nombre": "Slender-billed cockatoo",
+   "raza": "Cacatua tenuirostris",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 790,
+   "nombre": "Indian leopard",
+   "raza": "Panthera pardus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 791,
+   "nombre": "Monitor lizard (unidentified)",
+   "raza": "Varanus sp.",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 792,
+   "nombre": "Lion, galapagos sea",
+   "raza": "Zalophus californicus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 793,
+   "nombre": "Badger, american",
+   "raza": "Taxidea taxus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 794,
+   "nombre": "Great cormorant",
+   "raza": "Phalacrocorax carbo",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 795,
+   "nombre": "Turkey vulture",
+   "raza": "Cathartes aura",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 796,
+   "nombre": "Owl, white-browed",
+   "raza": "Ninox superciliaris",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 797,
+   "nombre": "Sandpiper, spotted wood",
+   "raza": "Tringa glareola",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 798,
+   "nombre": "Golden jackal",
+   "raza": "Canis aureus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 799,
+   "nombre": "Dromedary camel",
+   "raza": "Camelus dromedarius",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 800,
+   "nombre": "Boat-billed heron",
+   "raza": "Cochlearius cochlearius",
+   "color": "Goldenrod",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 801,
+   "nombre": "Rhea, common",
+   "raza": "Rhea americana",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 802,
+   "nombre": "Hyrax",
+   "raza": "Dendrohyrax brucel",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 803,
+   "nombre": "Kite, black",
+   "raza": "Milvus migrans",
+   "color": "Yellow",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 804,
+   "nombre": "Native cat",
+   "raza": "Dasyurus viverrinus",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 805,
+   "nombre": "Cormorant, great",
+   "raza": "Phalacrocorax carbo",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 806,
+   "nombre": "Orca",
+   "raza": "Orcinus orca",
+   "color": "Turquoise",
+   "genero": "Polygender",
+   "vacunas": true
+ },
+ {
+   "id": 807,
+   "nombre": "Lesser flamingo",
+   "raza": "Phoeniconaias minor",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 808,
+   "nombre": "Caracara (unidentified)",
+   "raza": "unavailable",
+   "color": "Goldenrod",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 809,
+   "nombre": "Killer whale",
+   "raza": "Orcinus orca",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 810,
+   "nombre": "Asian water dragon",
+   "raza": "Physignathus cocincinus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 811,
+   "nombre": "Black-faced kangaroo",
+   "raza": "Macropus fuliginosus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 812,
+   "nombre": "European shelduck",
+   "raza": "Tadorna tadorna",
+   "color": "Orange",
+   "genero": "Bigender",
+   "vacunas": true
+ },
+ {
+   "id": 813,
+   "nombre": "Anteater, giant",
+   "raza": "Myrmecophaga tridactyla",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 814,
+   "nombre": "Dromedary camel",
+   "raza": "Camelus dromedarius",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 815,
+   "nombre": "Black-tailed deer",
+   "raza": "Odocoileus hemionus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 816,
+   "nombre": "Dabchick",
+   "raza": "Tachybaptus ruficollis",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 817,
+   "nombre": "Beisa oryx",
+   "raza": "Oryx gazella",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 818,
+   "nombre": "Black curlew",
+   "raza": "Haematopus ater",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 819,
+   "nombre": "Leadbeateri's ground hornbill",
+   "raza": "Bucorvus leadbeateri",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 820,
+   "nombre": "Pigeon, feral rock",
+   "raza": "Columba livia",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 821,
+   "nombre": "Black-footed ferret",
+   "raza": "Mustela nigripes",
+   "color": "Blue",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 822,
+   "nombre": "Lynx, african",
+   "raza": "Felis caracal",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 823,
+   "nombre": "Indian peacock",
+   "raza": "Pavo cristatus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 824,
+   "nombre": "Cereopsis goose",
+   "raza": "Cereopsis novaehollandiae",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 825,
+   "nombre": "White-browed sparrow weaver",
+   "raza": "Plocepasser mahali",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 826,
+   "nombre": "Stone sheep",
+   "raza": "Ovis dalli stonei",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 827,
+   "nombre": "Woodchuck",
+   "raza": "Marmota monax",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 828,
+   "nombre": "Dove, little brown",
+   "raza": "Streptopelia senegalensis",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 829,
+   "nombre": "Dove, emerald-spotted wood",
+   "raza": "Turtur chalcospilos",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 830,
+   "nombre": "Capuchin, brown",
+   "raza": "Cebus apella",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 831,
+   "nombre": "Bandicoot, long-nosed",
+   "raza": "Perameles nasuta",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 832,
+   "nombre": "Zebra, common",
+   "raza": "Equus burchelli",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 833,
+   "nombre": "Baboon, chacma",
+   "raza": "Papio ursinus",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 834,
+   "nombre": "Yellow-throated sandgrouse",
+   "raza": "Pterocles gutturalis",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 835,
+   "nombre": "Seal, harbor",
+   "raza": "Phoca vitulina",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 836,
+   "nombre": "Grison",
+   "raza": "Galictis vittata",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 837,
+   "nombre": "Possum, golden brush-tailed",
+   "raza": "Trichosurus vulpecula",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 838,
+   "nombre": "Colobus, black and white",
+   "raza": "Colobus guerza",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 839,
+   "nombre": "Duiker, common",
+   "raza": "Sylvicapra grimma",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 840,
+   "nombre": "Long-tailed jaeger",
+   "raza": "Stercorarius longicausus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 841,
+   "nombre": "Turtle (unidentified)",
+   "raza": "unavailable",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 842,
+   "nombre": "Western grey kangaroo",
+   "raza": "Macropus fuliginosus",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 843,
+   "nombre": "Tortoise, burmese black mountain",
+   "raza": "Manouria emys",
+   "color": "Goldenrod",
+   "genero": "Genderqueer",
+   "vacunas": true
+ },
+ {
+   "id": 844,
+   "nombre": "Native cat",
+   "raza": "Dasyurus viverrinus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 845,
+   "nombre": "Bush dog",
+   "raza": "Speothos vanaticus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 846,
+   "nombre": "Shrike, common boubou",
+   "raza": "Laniarius ferrugineus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 847,
+   "nombre": "Bulbul, black-eyed",
+   "raza": "Pycnonotus barbatus",
+   "color": "Puce",
+   "genero": "Polygender",
+   "vacunas": true
+ },
+ {
+   "id": 848,
+   "nombre": "Kelp gull",
+   "raza": "Larus dominicanus",
+   "color": "Orange",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 849,
+   "nombre": "African fish eagle",
+   "raza": "Haliaetus vocifer",
+   "color": "Aquamarine",
+   "genero": "Genderfluid",
+   "vacunas": false
+ },
+ {
+   "id": 850,
+   "nombre": "Gray duiker",
+   "raza": "Sylvicapra grimma",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 851,
+   "nombre": "Plains zebra",
+   "raza": "Equus burchelli",
+   "color": "Teal",
+   "genero": "Bigender",
+   "vacunas": false
+ },
+ {
+   "id": 852,
+   "nombre": "Red-tailed hawk",
+   "raza": "Buteo jamaicensis",
+   "color": "Indigo",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 853,
+   "nombre": "Bear, american black",
+   "raza": "Ursus americanus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 854,
+   "nombre": "Wallaby, bennett's",
+   "raza": "Macropus rufogriseus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 855,
+   "nombre": "Armadillo, nine-banded",
+   "raza": "Dasypus novemcinctus",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 856,
+   "nombre": "Spotted hyena",
+   "raza": "Crocuta crocuta",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 857,
+   "nombre": "Black-tailed prairie dog",
+   "raza": "Cynomys ludovicianus",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 858,
+   "nombre": "Green-winged macaw",
+   "raza": "Ara chloroptera",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 859,
+   "nombre": "Otter, canadian river",
+   "raza": "Lutra canadensis",
+   "color": "Maroon",
+   "genero": "Polygender",
+   "vacunas": true
+ },
+ {
+   "id": 860,
+   "nombre": "Red deer",
+   "raza": "Cervus elaphus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 861,
+   "nombre": "Spoonbill, white",
+   "raza": "Platalea leucordia",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 862,
+   "nombre": "Kafue flats lechwe",
+   "raza": "Kobus leche robertsi",
+   "color": "Crimson",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 863,
+   "nombre": "Praying mantis (unidentified)",
+   "raza": "unavailable",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 864,
+   "nombre": "Desert spiny lizard",
+   "raza": "Sceloporus magister",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 865,
+   "nombre": "Comb duck",
+   "raza": "Sarkidornis melanotos",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 866,
+   "nombre": "Jaguarundi",
+   "raza": "Felis yagouaroundi",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 867,
+   "nombre": "Savanna baboon",
+   "raza": "Papio cynocephalus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 868,
+   "nombre": "Cobra (unidentified)",
+   "raza": "Naja sp.",
+   "color": "Red",
+   "genero": "Polygender",
+   "vacunas": false
+ },
+ {
+   "id": 869,
+   "nombre": "Elk, Wapiti",
+   "raza": "Cervus canadensis",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 870,
+   "nombre": "Pied kingfisher",
+   "raza": "Ceryle rudis",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 871,
+   "nombre": "Greater sage grouse",
+   "raza": "Centrocercus urophasianus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 872,
+   "nombre": "Greylag goose",
+   "raza": "Anser anser",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 873,
+   "nombre": "Oystercatcher, blackish",
+   "raza": "Haematopus ater",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 874,
+   "nombre": "Brocket, red",
+   "raza": "Mazama americana",
+   "color": "Blue",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 875,
+   "nombre": "Turkey, australian brush",
+   "raza": "Alectura lathami",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 876,
+   "nombre": "Little grebe",
+   "raza": "Tachybaptus ruficollis",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 877,
+   "nombre": "Squirrel, malabar",
+   "raza": "Ratufa indica",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 878,
+   "nombre": "Comb duck",
+   "raza": "Sarkidornis melanotos",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 879,
+   "nombre": "Swan, trumpeter",
+   "raza": "Cygnus buccinator",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 880,
+   "nombre": "Seal, northern elephant",
+   "raza": "Mirounga angustirostris",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 881,
+   "nombre": "Galapagos albatross",
+   "raza": "Diomedea irrorata",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 882,
+   "nombre": "Bahama pintail",
+   "raza": "Anas bahamensis",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 883,
+   "nombre": "European badger",
+   "raza": "Meles meles",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 884,
+   "nombre": "Australian spiny anteater",
+   "raza": "Tachyglossus aculeatus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 885,
+   "nombre": "Dragon, netted rock",
+   "raza": "Ctenophorus ornatus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 886,
+   "nombre": "Cockatoo, red-breasted",
+   "raza": "Eolophus roseicapillus",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 887,
+   "nombre": "Sandpiper, spotted wood",
+   "raza": "Tringa glareola",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 888,
+   "nombre": "Yellow-brown sungazer",
+   "raza": "Cordylus giganteus",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 889,
+   "nombre": "Hawk-eagle, crowned",
+   "raza": "Spizaetus coronatus",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 890,
+   "nombre": "Armadillo, giant",
+   "raza": "Priodontes maximus",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 891,
+   "nombre": "Macaque, bonnet",
+   "raza": "Macaca radiata",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 892,
+   "nombre": "Glider, squirrel",
+   "raza": "Petaurus norfolcensis",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 893,
+   "nombre": "Green-winged macaw",
+   "raza": "Ara chloroptera",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 894,
+   "nombre": "Blackish oystercatcher",
+   "raza": "Haematopus ater",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 895,
+   "nombre": "Quoll, eastern",
+   "raza": "Dasyurus viverrinus",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 896,
+   "nombre": "Common goldeneye",
+   "raza": "Bucephala clangula",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 897,
+   "nombre": "Snake, racer",
+   "raza": "Coluber constrictor",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 898,
+   "nombre": "Otter, oriental short-clawed",
+   "raza": "Aonyx cinerea",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 899,
+   "nombre": "Snake, eastern indigo",
+   "raza": "Drymarchon corias couperi",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 900,
+   "nombre": "Barking gecko",
+   "raza": "Phylurus milli",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 901,
+   "nombre": "Bleu, blue-breasted cordon",
+   "raza": "Uraeginthus angolensis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 902,
+   "nombre": "Slender-billed cockatoo",
+   "raza": "Cacatua tenuirostris",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 903,
+   "nombre": "Cape cobra",
+   "raza": "Naja nivea",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 904,
+   "nombre": "Common zorro",
+   "raza": "Dusicyon thous",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 905,
+   "nombre": "Darter, african",
+   "raza": "Anhinga rufa",
+   "color": "Puce",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 906,
+   "nombre": "Fox, cape",
+   "raza": "Vulpes chama",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 907,
+   "nombre": "Gull, silver",
+   "raza": "Larus novaehollandiae",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 908,
+   "nombre": "Lemur, ring-tailed",
+   "raza": "Lemur catta",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 909,
+   "nombre": "Steenbuck",
+   "raza": "Raphicerus campestris",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 910,
+   "nombre": "Bird (unidentified)",
+   "raza": "unavailable",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 911,
+   "nombre": "Mynah, indian",
+   "raza": "Acridotheres tristis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 912,
+   "nombre": "Possum, western pygmy",
+   "raza": "Cercatetus concinnus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 913,
+   "nombre": "Monkey, vervet",
+   "raza": "Cercopithecus aethiops",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 914,
+   "nombre": "Cockatoo, slender-billed",
+   "raza": "Cacatua tenuirostris",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 915,
+   "nombre": "White-tailed jackrabbit",
+   "raza": "Lepus townsendii",
+   "color": "Crimson",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 916,
+   "nombre": "Bear, black",
+   "raza": "Ursus americanus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 917,
+   "nombre": "Arboral spiny rat",
+   "raza": "Echimys chrysurus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 918,
+   "nombre": "Wood pigeon",
+   "raza": "Columba palumbus",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 919,
+   "nombre": "Rat, white-faced tree",
+   "raza": "Echimys chrysurus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 920,
+   "nombre": "Weaver, chestnut",
+   "raza": "Ploceus rubiginosus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 921,
+   "nombre": "Hornbill, yellow-billed",
+   "raza": "Tockus flavirostris",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 922,
+   "nombre": "Cockatoo, red-tailed",
+   "raza": "Calyptorhynchus magnificus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 923,
+   "nombre": "Spotted wood sandpiper",
+   "raza": "Tringa glareola",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 924,
+   "nombre": "Lizard, collared",
+   "raza": "Crotaphytus collaris",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 925,
+   "nombre": "Tiger",
+   "raza": "Panthera tigris",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 926,
+   "nombre": "Grey phalarope",
+   "raza": "Phalaropus fulicarius",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 927,
+   "nombre": "White-winged tern",
+   "raza": "Chlidonias leucopterus",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 928,
+   "nombre": "Tawny frogmouth",
+   "raza": "Podargus strigoides",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 929,
+   "nombre": "White-fronted capuchin",
+   "raza": "Cebus albifrons",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 930,
+   "nombre": "Margay",
+   "raza": "Felis wiedi or Leopardus weidi",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 931,
+   "nombre": "Timber wolf",
+   "raza": "Canis lupus lycaon",
+   "color": "Crimson",
+   "genero": "Bigender",
+   "vacunas": true
+ },
+ {
+   "id": 932,
+   "nombre": "Heron, grey",
+   "raza": "Ardea cinerea",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 933,
+   "nombre": "Timber wolf",
+   "raza": "Canis lupus lycaon",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 934,
+   "nombre": "Worm snake (unidentified)",
+   "raza": "Carphophis sp.",
+   "color": "Goldenrod",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 935,
+   "nombre": "Wombat, common",
+   "raza": "Vombatus ursinus",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 936,
+   "nombre": "Rose-ringed parakeet",
+   "raza": "Psittacula krameri",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 937,
+   "nombre": "Blackbird, red-winged",
+   "raza": "Agelaius phoeniceus",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 938,
+   "nombre": "Dragon, frilled",
+   "raza": "Chlamydosaurus kingii",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 939,
+   "nombre": "Hen, sage",
+   "raza": "Centrocercus urophasianus",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 940,
+   "nombre": "Springhare",
+   "raza": "Pedetes capensis",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 941,
+   "nombre": "Black-cheeked waxbill",
+   "raza": "Estrilda erythronotos",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 942,
+   "nombre": "Flamingo, chilean",
+   "raza": "Phoenicopterus chilensis",
+   "color": "Teal",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 943,
+   "nombre": "Spider, wolf",
+   "raza": "Lycosa godeffroyi",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 944,
+   "nombre": "Buffalo, american",
+   "raza": "Bison bison",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 945,
+   "nombre": "Cobra, egyptian",
+   "raza": "Naja haje",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 946,
+   "nombre": "South American meadowlark (unidentified)",
+   "raza": "unavailable",
+   "color": "Maroon",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 947,
+   "nombre": "Greater flamingo",
+   "raza": "Phoenicopterus ruber",
+   "color": "Green",
+   "genero": "Genderfluid",
+   "vacunas": true
+ },
+ {
+   "id": 948,
+   "nombre": "Indian peacock",
+   "raza": "Pavo cristatus",
+   "color": "Green",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 949,
+   "nombre": "Crow, american",
+   "raza": "Corvus brachyrhynchos",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 950,
+   "nombre": "Wallaby, red-necked",
+   "raza": "Macropus rufogriseus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 951,
+   "nombre": "White-eye, pale",
+   "raza": "Zosterops pallidus",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 952,
+   "nombre": "Stork, white-necked",
+   "raza": "Ciconia episcopus",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 953,
+   "nombre": "Red sheep",
+   "raza": "Ovis ammon",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 954,
+   "nombre": "Beaver, european",
+   "raza": "Castor fiber",
+   "color": "Khaki",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 955,
+   "nombre": "White-bellied sea eagle",
+   "raza": "Haliaetus leucogaster",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 956,
+   "nombre": "Coqui partridge",
+   "raza": "Francolinus coqui",
+   "color": "Violet",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 957,
+   "nombre": "Wallaby, tammar",
+   "raza": "Macropus eugenii",
+   "color": "Yellow",
+   "genero": "Genderqueer",
+   "vacunas": true
+ },
+ {
+   "id": 958,
+   "nombre": "Whale, baleen",
+   "raza": "Eubalaena australis",
+   "color": "Yellow",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 959,
+   "nombre": "Long-tailed spotted cat",
+   "raza": "Felis wiedi or Leopardus weidi",
+   "color": "Pink",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 960,
+   "nombre": "Eastern box turtle",
+   "raza": "Terrapene carolina",
+   "color": "Purple",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 961,
+   "nombre": "African lynx",
+   "raza": "Felis caracal",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 962,
+   "nombre": "Scaly-breasted lorikeet",
+   "raza": "Trichoglossus chlorolepidotus",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 963,
+   "nombre": "Eurasian hoopoe",
+   "raza": "Upupa epops",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 964,
+   "nombre": "Black spider monkey",
+   "raza": "Ateles paniscus",
+   "color": "Aquamarine",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 965,
+   "nombre": "Plover, three-banded",
+   "raza": "Charadrius tricollaris",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 966,
+   "nombre": "Bald eagle",
+   "raza": "Haliaeetus leucocephalus",
+   "color": "Red",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 967,
+   "nombre": "Barbet, crested",
+   "raza": "Trachyphonus vaillantii",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 968,
+   "nombre": "Ocelot",
+   "raza": "Felis pardalis",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 969,
+   "nombre": "Lion, galapagos sea",
+   "raza": "Zalophus californicus",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 970,
+   "nombre": "Glossy starling (unidentified)",
+   "raza": "Lamprotornis sp.",
+   "color": "Orange",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 971,
+   "nombre": "African darter",
+   "raza": "Anhinga rufa",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 972,
+   "nombre": "African jacana",
+   "raza": "Actophilornis africanus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 973,
+   "nombre": "Vulture, egyptian",
+   "raza": "Neophron percnopterus",
+   "color": "Purple",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 974,
+   "nombre": "Campo flicker",
+   "raza": "Colaptes campestroides",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 975,
+   "nombre": "Indian porcupine",
+   "raza": "Hystrix indica",
+   "color": "Red",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 976,
+   "nombre": "Dragon, ornate rock",
+   "raza": "Ctenophorus ornatus",
+   "color": "Turquoise",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 977,
+   "nombre": "Onager",
+   "raza": "Equus hemionus",
+   "color": "Pink",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 978,
+   "nombre": "Squirrel, indian giant",
+   "raza": "Ratufa indica",
+   "color": "Mauv",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 979,
+   "nombre": "Cat, civet",
+   "raza": "Bassariscus astutus",
+   "color": "Indigo",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 980,
+   "nombre": "Lizard, blue-tongued",
+   "raza": "Tiliqua scincoides",
+   "color": "Puce",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 981,
+   "nombre": "Crab-eating fox",
+   "raza": "Dusicyon thous",
+   "color": "Pink",
+   "genero": "Bigender",
+   "vacunas": true
+ },
+ {
+   "id": 982,
+   "nombre": "Grouse, sage",
+   "raza": "Centrocercus urophasianus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 983,
+   "nombre": "Common eland",
+   "raza": "Taurotagus oryx",
+   "color": "Khaki",
+   "genero": "Agender",
+   "vacunas": false
+ },
+ {
+   "id": 984,
+   "nombre": "Arctic fox",
+   "raza": "Alopex lagopus",
+   "color": "Khaki",
+   "genero": "Female",
+   "vacunas": false
+ },
+ {
+   "id": 985,
+   "nombre": "Oryx, beisa",
+   "raza": "Oryx gazella",
+   "color": "Green",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 986,
+   "nombre": "Campo flicker",
+   "raza": "Colaptes campestroides",
+   "color": "Crimson",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 987,
+   "nombre": "Cobra (unidentified)",
+   "raza": "Naja sp.",
+   "color": "Blue",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 988,
+   "nombre": "Snake, western patch-nosed",
+   "raza": "Salvadora hexalepis",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 989,
+   "nombre": "Tokay gecko",
+   "raza": "Gekko gecko",
+   "color": "Maroon",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 990,
+   "nombre": "Nuthatch, red-breasted",
+   "raza": "Sitta canadensis",
+   "color": "Yellow",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 991,
+   "nombre": "Squirrel, antelope ground",
+   "raza": "Ammospermophilus nelsoni",
+   "color": "Indigo",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 992,
+   "nombre": "Giant armadillo",
+   "raza": "Priodontes maximus",
+   "color": "Teal",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 993,
+   "nombre": "Lion, steller's sea",
+   "raza": "Eumetopias jubatus",
+   "color": "Violet",
+   "genero": "Non-binary",
+   "vacunas": true
+ },
+ {
+   "id": 994,
+   "nombre": "Wapiti, elk,",
+   "raza": "Cervus canadensis",
+   "color": "Turquoise",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 995,
+   "nombre": "Squirrel, antelope ground",
+   "raza": "Ammospermophilus nelsoni",
+   "color": "Orange",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 996,
+   "nombre": "Pelican, great white",
+   "raza": "Pelecans onocratalus",
+   "color": "Fuscia",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 997,
+   "nombre": "Black-throated butcher bird",
+   "raza": "Cracticus nigroagularis",
+   "color": "Mauv",
+   "genero": "Male",
+   "vacunas": true
+ },
+ {
+   "id": 998,
+   "nombre": "Swallow-tail gull",
+   "raza": "Creagrus furcatus",
+   "color": "Teal",
+   "genero": "Male",
+   "vacunas": false
+ },
+ {
+   "id": 999,
+   "nombre": "Great white pelican",
+   "raza": "Pelecans onocratalus",
+   "color": "Aquamarine",
+   "genero": "Female",
+   "vacunas": true
+ },
+ {
+   "id": 1000,
+   "nombre": "Caiman, spectacled",
+   "raza": "Caiman crocodilus",
+   "color": "Violet",
+   "genero": "Male",
+   "vacunas": false
+ }
+]

@@ -1,0 +1,24 @@
+#p1 {
+    background-color: black;
+    color:white;
+}
+
+#p2 {
+    background-color: brown;
+    color:chocolate;
+}
+
+#p3 {
+    background-color: blue;
+    color:yellow;
+}
+
+img{
+    height: 400;
+    width:400;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }

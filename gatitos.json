@@ -1,0 +1,34 @@
+[
+    {
+    "nombre": "piluso",
+    "castrado": true,
+    "vacunado": true,
+    "desparasitado": true,
+    "raza": "xx",
+    "pelaje": "liso"
+        },
+    {
+    "nombre": "coquito",
+    "castrado": true,
+    "vacunado": true,
+    "desparasitado": true,
+    "raza": "xx",
+    "pelaje": "liso"
+        },
+    {
+    "nombre": "michi",
+    "castrado": true,
+    "vacunado": true,
+    "desparasitado": true,
+    "raza": "xx",
+    "pelaje": "liso"
+        },
+    {
+    "nombre": "tito",
+    "castrado": true,
+    "vacunado": true,
+    "desparasitado": true,
+    "raza": "xx",
+    "pelaje": "liso"
+        }
+]
