@@ -2,33 +2,37 @@
     {
     "nombre": "piluso",
     "castrado": true,
-    "vacunado": true,
+    "vacunado": false,
     "desparasitado": true,
-    "raza": "xx",
-    "pelaje": "liso"
+    "raza": "calle",
+    "pelaje": "manchado",
+    "imagen": "https://www.bing.com/th?id=OIP.BR2BDP4ZtodY4GI7wEOiVwHaHv&w=197&h=206&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
         },
     {
     "nombre": "coquito",
     "castrado": true,
     "vacunado": true,
-    "desparasitado": true,
-    "raza": "xx",
-    "pelaje": "liso"
+    "desparasitado": false,
+    "raza": "garfield",
+    "pelaje": "rayado",
+    "imagen": "https://www.bing.com/th?id=OIP.lk9fThZ_ekxDkSYN1SMeawHaFj&w=152&h=106&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
         },
     {
     "nombre": "michi",
-    "castrado": true,
+    "castrado": false,
     "vacunado": true,
     "desparasitado": true,
-    "raza": "xx",
-    "pelaje": "liso"
+    "raza": "piripipi",
+    "pelaje": "atigrado",
+    "imagen": "https://www.bing.com/th?id=OIP.DZSF3IBuqUt6AYvKqILKAgHaE6&w=146&h=98&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
         },
     {
     "nombre": "tito",
     "castrado": true,
     "vacunado": true,
     "desparasitado": true,
-    "raza": "xx",
-    "pelaje": "liso"
+    "raza": "siames",
+    "pelaje": "liso",
+    "imagen": "https://www.bing.com/th?id=OIP.zJ5O_JTundXmm32UPI5s1wHaE8&w=169&h=106&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
         }
 ]
